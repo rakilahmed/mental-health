@@ -1,0 +1,580 @@
+,program_name,program_type_description,address,georeference,lat,lon
+2,Montefiore Wakefield Mental Health Clinic,Clinic Treatment,"4401 Bronx Boulevard, Bronx, NY, 10466",POINT (-73.857351 40.900397),40.900397,-73.857351
+6,Home Based Family Treatment Model,Home-Based Family Treatment,"101 Hamilton Ave, Auburn, NY, 13021",POINT (-76.55262 42.924503),42.924503,-76.55262
+7,Mobile Crisis Outreach,Crisis  Intervention,"402 Chandler St., Jamestown, NY, 14701",POINT (-79.227105 42.098799),42.098799,-79.227105
+8,Outreach - Chautauqua Co. Crisis Hotline,Advocacy/Support Services,"100 River Rock Drive Suite 300, Buffalo, NY, 14207-2163",POINT (-78.898101 42.946967),42.946967,-78.898101
+10,PEER & REHAB SUP,Recovery Center,"160 Fairview Plaza, Hudson, NY, 12534",POINT (-73.767353 42.254905),42.254905,-73.767353
+18,Compeer of Livingston County,Advocacy/Support Services,"1 Genesee Street, Avon, NY, 14414",POINT (-77.746156 42.911922),42.911922,-77.746156
+19,Venture House,Respite Services,"345 Main Street, Oneida, NY, 13421",POINT (-75.648502 43.089516),43.089516,-75.648502
+21,Unity ACT,Assertive Community Treatment (ACT),"81 Lake Avenue, Rochester, NY, 14608-1410",POINT (-77.624561 43.166199),43.166199,-77.624561
+22,St. Mary's ACT Team,Assertive Community Treatment (ACT),"446b Guy Park Avenue, Amsterdam, NY, 12010-1005",POINT (-74.217626 42.95417),42.95417,-74.217626
+23,CFTSS:  Other Licensed Practitioner,CFTSS: Other Licensed Practitioner (OLP),"525 Convent Road, Syosset, NY, 11791",POINT (-73.484835 40.821543),40.821543,-73.484835
+26,Outreach (MICA),Outreach,"246 E. 121st Street, New York, NY, 10035",POINT (-73.935912 40.800388),40.800388,-73.935912
+27,Service Program for Older People PROS,Comprehensive PROS with Clinical Treatment,"188 W 88th Street, New York, NY, 10024",POINT (-73.973781 40.788864),40.788864,-73.973781
+30,Emergency Room,Crisis  Intervention,"621 Tenth Street, Niagara Falls, NY, 14302-0708",POINT (-79.050429 43.093433),43.093433,-79.050429
+31,Transition Management Services,Transition Management Services,"6075 Judd Road, Oriskany, NY, 13424",POINT (-75.375518 43.156695),43.156695,-75.375518
+36,Jawonio - HH NonMed CM,Health Home Non-Medicaid Care Management,"260 North Little Tor Road, New City, NY, 10956",POINT (-74.004877 41.163222),41.163222,-74.004877
+37,Forensic Case Manager,Non-Medicaid Care Coordination,"600 W. Washington Street, Geneva, NY, 14456",POINT (-77.006768 42.859932),42.859932,-77.006768
+38,Step-by-Step Inc.,Advocacy/Support Services,"1515 Knox Street, Ogdensburg, NY, 13669",POINT (-75.476104 44.701914),44.701914,-75.476104
+39,Youth Peer Support and Training,CFTSS: Youth Peer Support (YPS),"25 West Steuben St, Bath, NY, 14810",POINT (-77.319845 42.333623),42.333623,-77.319845
+40,TRANSITIONAL CASE MANAGEMENT,Transition Management Services,"80 Wheeler Road, Central Islip, NY, 11722",POINT (-73.207705 40.797239),40.797239,-73.207705
+41,RECESS,Respite Services,"1444 Fifth Avenue, Bay Shore, NY, 11706",POINT (-73.263906 40.745565),40.745565,-73.263906
+44,Crisis Intervention,Crisis  Intervention,"162 E. Broadway, Monticello, NY, 12701",POINT (-74.680536 41.653363),41.653363,-74.680536
+46,Assisted Competitive Employment,Assisted Competitive Employment,"2 John Walsh Boulevard, Peekskill, NY, 10566-5332",POINT (-73.939148 41.277815),41.277815,-73.939148
+47,Westchester Arts Council,Outreach,"31 Mamaroneck Avenue, White Plains, NY, 10601",POINT (-73.766233 41.031574),41.031574,-73.766233
+48,Crisis Intervention,Crisis  Intervention,"1 Odell Plaza, Yonkers, NY, 10701",POINT (-73.882546 40.969388),40.969388,-73.882546
+50,Advocacy and Support Services,Advocacy/Support Services,"417 Liberty Street, Penn Yan, NY, 14527",POINT (-77.058231 42.663932),42.663932,-77.058231
+51,CFTSS: Children's Mental Health Rehabilitation Services,CFTSS: Children's Mental Health Rehabilitation Services,"1099 Jay Street, Rochester, NY, 14611-1100",POINT (-77.650727 43.159364),43.159364,-77.650727
+52,Self Help Program,Self-Help Programs,"75 Jamestown Street, Gowanda, NY, 14070-1423",POINT (-78.936744 42.461004),42.461004,-78.936744
+53,CFTSS: Youth Peer Support and Training,CFTSS: Youth Peer Support (YPS),"713 Union, Hudson, NY, 12534-3001",POINT (-73.784197 42.246575),42.246575,-73.784197
+54,Westchester OMH Contract,Advocacy/Support Services,"3 Atrium Drive, Albany, NY, 12205",POINT (-73.7762 42.688905),42.688905,-73.7762
+56,Kids Oneida ACT Team,Children and Youth Assertive Community Treatment,"310 Main Street, Utica, NY, 13501-1236",POINT (-75.224324 43.104037),43.104037,-75.224324
+58,Bedford Avenue Health Center,Clinic Treatment,"1669 Bedford Avenue, Brooklyn, NY, 11225-2009",POINT (-73.956782 40.665912),40.665912,-73.956782
+62,Inpatient Unit,Inpatient Psychiatric Unit of a General Hospital,"355 Bard Avenue, Staten Island, NY, 10310-1664",POINT (-74.106693 40.63551),40.63551,-74.106693
+64,Bridges Psychosocial Club,Psychosocial Club,"425 Washington Street, Watertown, NY, 13601-2602",POINT (-75.911712 43.970222),43.970222,-75.911712
+65,Parent Engagement/Transition Coordinator,Advocacy/Support Services,"31 Thurber Drive, Waterloo, NY, 13148",POINT (-76.844816 42.906298),42.906298,-76.844816
+68,HRH Care at Shirley,Clinic Treatment,"550 Montauk Highway, Shirley, NY, 11967-2114",POINT (-72.879024 40.800595),40.800595,-72.879024
+69,Drop In Center,Drop In Centers,"230 Ramapo Road, Garnerville, NY, 10923",POINT (-73.985384 41.199442),41.199442,-73.985384
+75,Family Support Services-Children & Family,Family Peer Support Services - Children & Family,"1439 Buffalo Street, Olean, NY, 14760",POINT (-78.448017 42.086785),42.086785,-78.448017
+78,Supported Housing,Advocacy/Support Services,"13 State Street, Schenectady, NY, 12305",POINT (-73.948724 42.81524),42.81524,-73.948724
+80,Beacon Center,Clinic Treatment,"210 South Main Street, Herkimer, NY, 13350-2375",POINT (-74.985221 43.02458),43.02458,-74.985221
+81,NCB Partial Hospitalization Program,Partial Hospitalization,"3424 Kossuth Avenue, Bronx, NY, 10467-2410",POINT (-73.881631 40.880462),40.880462,-73.881631
+82,Postgraduate Center for Mental Health - HH CM,Health Home Care Management,"158 East 35th Street, New York, NY, 10016",POINT (-73.97822 40.746628),40.746628,-73.97822
+83,Salmon River Central School,School Mental Health Program,"637 County Route 1, Fort Covington, NY, 12937",POINT (-74.516236 44.962144),44.962144,-74.516236
+84,Wayne Cap Behavioral Health Services,CFTSS: Family Peer Support Services (FPSS),"159 Montezuma Street, Lyons, NY, 14489",POINT (-76.977616 43.061859),43.061859,-76.977616
+85,Family Peer Support and Services,CFTSS: Family Peer Support Services (FPSS),"40 N Main Ave, Albany, NY, 12203",POINT (-73.786938 42.666451),42.666451,-73.786938
+87,New York-Presbyterian Brooklyn Methodist Hospital Psychiatri,Inpatient Psychiatric Unit of a General Hospital,"506 Sixth Street, Brooklyn, NY, 11215",POINT (-73.979141 40.668263),40.668263,-73.979141
+88,Erie County Respite Services,Advocacy/Support Services,"81 Sayre Street, Buffalo, NY, 14207",POINT (-78.892358 42.947598),42.947598,-78.892358
+90,Long Island Advocacy Center,Advocacy/Support Services,"999 Herricks Road, New Hyde Park, NY, 11040",POINT (-73.65993 40.759353),40.759353,-73.65993
+92,Children and Family Treatment and Support and Services,CFTSS: Psychosocial Rehabilitation (PSR),"628 Mary St., Utica, NY, 13501",POINT (-75.219803 43.096817),43.096817,-75.219803
+94,Mather Hospital Mental Health Clinic,Clinic Treatment,"125 Oakland Avenue, Port Jefferson, NY, 11777-2130",POINT (-73.054083 40.936334),40.936334,-73.054083
+97,Mobile Integration Team,Mobile Integration Team,"140 Old Orangeburg Rd, Orangeburg, NY, 10962",POINT (-73.969781 41.044479),41.044479,-73.969781
+100,ALBANY HEALTH HOME,Health Home Care Management,"102 Hackett Blvd, Albany, NY, 12209",POINT (-73.785513 42.644078),42.644078,-73.785513
+102,Family Support Services,Family Peer Support Services - Children & Family,"320 North Goodman Street, Rochester, NY, 14607",POINT (-77.584787 43.159781),43.159781,-77.584787
+103,Health Home Non Medicaid Care Management C&Y,Health Home Non-Medicaid Care Management,"1519 Nye Road, Lyon, NY, 14489-9133",POINT (-77.029774 43.061677),43.061677,-77.029774
+104,The Steve Schwarzkopf Community Mental Health Center,Clinic Treatment,"1111 Elmwood Avenue, Rochester, NY, 14620-3005",POINT (-77.609856 43.124938),43.124938,-77.609856
+106,HDS Outreach and Flexible,Outreach,"930 Mamaroneck Avenue, Mamaroneck, NY, 10543",POINT (-73.737266 40.959327),40.959327,-73.737266
+108,Peer Advocacy Warsaw,Advocacy/Support Services,"27 West Buffalo Street, Warsaw, NY, 14569",POINT (-78.133473 42.740221),42.740221,-78.133473
+111,New Horizon Counseling Center West Rockaway Clinic,Clinic Treatment,"88-02 Rockaway Beach Blvd, Rockaway Beach, NY, 11693-1609",POINT (-73.813141 40.587318),40.587318,-73.813141
+112,Saratoga County PROS dba Reflections PROS,Comprehensive PROS without Clinical Treatment,"135 South Broadway, Saratoga Springs, NY, 12866-4532",POINT (-73.788572 43.070151),43.070151,-73.788572
+113,JCCA Brooklyn Child & Adolescent Guidance Services,Clinic Treatment,"858 E 29th Street, Brooklyn, NY, 11210-2927",POINT (-73.948503 40.630015),40.630015,-73.948503
+114,Oswego County Suicide Prevention Coalition,Advocacy/Support Services,"283 West 2nd Street, Oswego, NY, 13126",POINT (-76.508415 43.4493),43.4493,-76.508415
+115,Transportation,Transportation,"4600 Millennium Drive, Geneseo, NY, 14454-1195",POINT (-77.790421 42.79823),42.79823,-77.790421
+124,Montefiore Wakefield Child Psychiatry Clinic,Clinic Treatment,"4401 Bronx Boulevard, Bronx, NY, 10470-1407",POINT (-73.857351 40.900397),40.900397,-73.857351
+125,Mobile Integration Team,Mobile Integration Team,"74-03 Commonwealth Boulevard, Bellerose, NY, 11426-1837",POINT (-73.726882 40.744944),40.744944,-73.726882
+126,MHA Ulster-Transitions-Non Medicaid CC,Non-Medicaid Care Coordination,"300 Aaron Court, Kingston, NY, 12401",POINT (-74.015047 41.935186),41.935186,-74.015047
+127,Health Home Care Management,Health Home Care Management,"500 Western Highway, Blauvelt, NY, 10913",POINT (-73.953592 41.053338),41.053338,-73.953592
+128,Mothers Aligned Saving Kids Inc.,Family Peer Support Services - Children & Family,"1431 East 12th Street, Brooklyn, NY, 11230",POINT (-73.962194 40.614408),40.614408,-73.962194
+129,OTSEGO C & Y NON MED CARE COORDINATION,Non-Medicaid Care Coordination,"9 River Street, Oneonta, NY, 13820",POINT (-75.064731 42.448599),42.448599,-75.064731
+130,OCMS Outpatient Behavioral Health Clinic,Clinic Treatment,"620 Erie Boulevard West, Syracuse, NY, 13204-2457",POINT (-76.164413 43.049132),43.049132,-76.164413
+131,SNCH Center for Behavioral Healthcare,Clinic Treatment,"250 Fulton Avenue, Hempstead, NY, 11550-3917",POINT (-73.626329 40.707812),40.707812,-73.626329
+132,Consultation Center,CFTSS: Psychosocial Rehabilitation (PSR),"184 Eldridge Street, New York, NY, 10002",POINT (-73.990716 40.720597),40.720597,-73.990716
+135,Transportation - Columbia County,Transportation,"713 Union Street, Hudson, NY, 12534",POINT (-73.784197 42.246575),42.246575,-73.784197
+136,Weston TLC,On-Site Rehabilitation,"2262 Adam Clayton Powell Jr. Blvd, New York, NY, 10030",POINT (-73.944583 40.814247),40.814247,-73.944583
+138,Self Help Program,Self-Help Programs,"111 Philips Brook Road, Garrison, NY, 10524",POINT (-73.911188 41.389184),41.389184,-73.911188
+139,Youth Peer Support and Training - Genovese,CFTSS: Youth Peer Support (YPS),"89-30 161st Street, Jamaica, NY, 11432",POINT (-73.799479 40.70558),40.70558,-73.799479
+141,Cattaraugus Rehabilitation Center - HH Non- Med CM,Health Home Non-Medicaid Care Management,"1439 Buffalo Street, Olean, NY, 14760",POINT (-78.448017 42.086785),42.086785,-78.448017
+142,Mental Health Association of Rockland County Inc.,CFTSS: Youth Peer Support (YPS),"140 Route 303, Valley Cottage, NY, 10989",POINT (-73.94233 41.12062),41.12062,-73.94233
+144,Children and Family Treatment and Support Services,CFTSS: Other Licensed Practitioner (OLP),"1780 Grand Concourse, Bronx, NY, 10457-5500",POINT (-73.90922 40.846359),40.846359,-73.90922
+145,Fast Break Plus,CFTSS: Children's Mental Health Rehabilitation Services,"1841 Park Avenue, New York, NY, 10035",POINT (-73.938281 40.805822),40.805822,-73.938281
+146,HCBS-Like Peer Support Services,Self-Help Programs,"283 West 2nd Street, Oswego, NY, 13126",POINT (-76.508415 43.4493),43.4493,-76.508415
+148,Child and Youth Family Supp. Svcs.,Family Peer Support Services - Children & Family,"713 Union Street, Hudson, NY, 12534",POINT (-73.784197 42.246575),42.246575,-73.784197
+149,Ohel Youth Peer Support and Training,CFTSS: Youth Peer Support (YPS),"1268 East 14th Street, Brooklyn, NY, 11230",POINT (-73.960998 40.61821),40.61821,-73.960998
+151,Valhalla Office,Assisted Competitive Employment,"401 Columbus Avenue, Valhalla, NY, 10595",POINT (-73.777614 41.097342),41.097342,-73.777614
+152,Mental Health Association in Essex County - HH CM,Health Home Care Management,"6096 Nys Route 9n, Westport, NY, 12993",POINT (-73.428083 44.159161),44.159161,-73.428083
+154,Self Help Programs,Self-Help Programs,"21 First Street, Troy, NY, 12180",POINT (-73.693092 42.730148),42.730148,-73.693092
+156,Hudson Guild Paula B. Balser Counseling Service,Clinic Treatment,"441 West 26th Street, New York, NY, 10001-5629",POINT (-74.001782 40.749167),40.749167,-74.001782
+158,PCMH Brooklyn ACT,Assertive Community Treatment (ACT),"164 20th Street, Brooklyn, NY, 11232-1180",POINT (-73.995618 40.663592),40.663592,-73.995618
+159,Center for Hearing and Communication,Clinic Treatment,"50 Broadway, New York, NY, 10004-3810",POINT (-74.012826 40.70639),40.70639,-74.012826
+163,Abbott Corners PROS,Comprehensive PROS with Clinical Treatment,"3176 Abbott Road, Orchard Park, NY, 14127-1069",POINT (-78.795412 42.798403),42.798403,-78.795412
+164,DELAWARE HEALTH HOME - ADULTS,Health Home Care Management,"132 Delaware Street, Walton, NY, 13856",POINT (-75.129753 42.168109),42.168109,-75.129753
+165,Bronx Health Service Center,CFTSS: Psychosocial Rehabilitation (PSR),"910 E. 172 Street, Bronx, NY, 10460-5802",POINT (-73.890072 40.834178),40.834178,-73.890072
+169,Cardinal McCloskey Community Services,CFTSS: Other Licensed Practitioner (OLP),"529 Courtlandt Avenue, Bronx, NY, 10451",POINT (-73.919768 40.816077),40.816077,-73.919768
+171,Supported Work,Ongoing Integrated Supported Employment Services,"842 Bennie Road, Cortland, NY, 13045",POINT (-76.218686 42.566436),42.566436,-76.218686
+172,Albany County Children's Mental Health Clinic,Clinic Treatment,"260 South Pearl Street, Albany, NY, 12202-1809",POINT (-73.75638 42.642565),42.642565,-73.75638
+177,EPC Community Clinic,Clinic Treatment,"100 Washington Street, Elmira, NY, 14901-2898",POINT (-76.795313 42.091164),42.091164,-76.795313
+178,NYS Family Court - Queens,Advocacy/Support Services,"151-20 Jamaica Avenue, Jamaica, NY, 11432",POINT (-73.803465 40.702407),40.702407,-73.803465
+179,Health  Home Care Management C&Y,Health Home Care Management,"86-88 Walnut Street, Binghamton, NY, 13905",POINT (-75.923098 42.100935),42.100935,-75.923098
+180,St. Vincent's PROS,Comprehensive PROS with Clinical Treatment,"275 North Street, Harrison, NY, 10528-1140",POINT (-73.71001 40.988342),40.988342,-73.71001
+181,MHA Ulster-Compeer -Non Medicaid CC,Non-Medicaid Care Coordination,"300 Aaron Court, Kingston, NY, 12401",POINT (-74.015047 41.935186),41.935186,-74.015047
+182,Children's Mental Health Rehabilitation Program,CFTSS: Children's Mental Health Rehabilitation Services,"17 East Genesee Street, Auburn, NY, 13021-4040",POINT (-76.562333 42.933141),42.933141,-76.562333
+184,Brooklyn Learning Resource Center,Vocational Services - Children & Family (C & F),"1819 Bergen Street, Brooklyn, NY, 11233-4513",POINT (-73.921862 40.674569),40.674569,-73.921862
+185,Healthy Steps,Advocacy/Support Services,"1411 Myrtle Avenue, Brooklyn, NY, 11237-4006",POINT (-73.91962 40.69868),40.69868,-73.91962
+187,Mt. Vernon Community Services,Clinic Treatment,"100 California Road, Mount Vernon, NY, 10552-1404",POINT (-73.81682 40.926506),40.926506,-73.81682
+188,Spectrum Wyoming Co. POEMS,Advocacy/Support Services,"34 N. Main Street, Warsaw, NY, 14569",POINT (-78.132582 42.740714),42.740714,-78.132582
+189,Parsons Child & Family Center Day Treatment Program,Day Treatment,"58 Academy Road, Albany, NY, 12208-3103",POINT (-73.785395 42.64892),42.64892,-73.785395
+190,Geriatric Peer Advocacy,Advocacy/Support Services,"681 Clarkson Avenue, Brooklyn, NY, 11206",POINT (-73.936177 40.656266),40.656266,-73.936177
+191,Children's Care Coordination,Non-Medicaid Care Coordination,"377 Oak St, Garden City, NY, 11530",POINT (-73.608059 40.725589),40.725589,-73.608059
+194,Buffalo Psychiatric Center ACT Program,Assertive Community Treatment (ACT),"400 Forest Avenue, Buffalo, NY, 14213-1207",POINT (-78.880201 42.929258),42.929258,-78.880201
+199,NYC H+H / Jacobi ACT Program,Assertive Community Treatment (ACT),"1400 Pelham Parkway South, Bronx, NY, 10461-1116",POINT (-73.84721 40.857455),40.857455,-73.84721
+201,Nassau Mental Health Law Project,Advocacy/Support Services,"1 Helen Keller Way, Hempstead, NY, 11550",POINT (-73.622647 40.708009),40.708009,-73.622647
+204,MH Servs-Erie Co/Spectrum - HH NonMed CM,Health Home Non-Medicaid Care Management,"1280 Main Street, Buffalo, NY, 14209",POINT (-78.866876 42.908496),42.908496,-78.866876
+205,FLACRA Mental Health Services,Clinic Treatment,"339 East Avenue, Rochester, NY, 14604-2625",POINT (-77.595794 43.155359),43.155359,-77.595794
+206,CM Youth,Health Home Care Management,"127 Union Street, Saratoga Springs, NY, 12866-4411",POINT (-73.789913 43.071739),43.071739,-73.789913
+207,CCNS Jamaica Behavioral Health Clinic,Clinic Treatment,"161-10 Jamaica Avenue, Jamaica, NY, 11432-6139",POINT (-73.798175 40.704141),40.704141,-73.798175
+209,St. Joseph's Inpatient Psychiatric Services,Inpatient Psychiatric Unit of a General Hospital,"301 Prospect Avenue, Syracuse, NY, 13203-1807",POINT (-76.149176 43.055589),43.055589,-76.149176
+210,PCMH Bronx ACT Team,Assertive Community Treatment (ACT),"391 East 149th Street, Bronx, NY, 10455-3907",POINT (-73.918287 40.816334),40.816334,-73.918287
+211,Poughkeepsie Center PROS Program,Comprehensive PROS with Clinical Treatment,"26 Oakley Street, Poughkeepsie, NY, 12601-2005",POINT (-73.917448 41.709221),41.709221,-73.917448
+215,Envision PROS,Comprehensive PROS without Clinical Treatment,"406 Vulcan Street, Buffalo, NY, 14207-1326",POINT (-78.899839 42.965634),42.965634,-78.899839
+218,MH Transportation,Transportation,"16 Saratoga Bridges Blvd, Ballston Spa, NY, 12020",POINT (-73.793786 43.016954),43.016954,-73.793786
+219,Non Medicaid Health Home Care Management,Non-Medicaid Care Coordination,"10 Symphony Circle, Buffalo, NY, 14201",POINT (-78.881614 42.902986),42.902986,-78.881614
+220,Micrographics Day Training,Psychosocial Club,"600 Hempstead Turnpike, West Hempstead, NY, 11552",POINT (-73.662962 40.706612),40.706612,-73.662962
+221,R.P.M.S. Advocacy/Support Services,Advocacy/Support Services,"198 E. 121st Street, New York, NY, 10035",POINT (-73.937685 40.801141),40.801141,-73.937685
+222,Child and Adolescent Behavioral Health Center,Clinic Treatment,"425 Robinson Street, Binghamton, NY, 13904-1735",POINT (-75.866583 42.107984),42.107984,-75.866583
+223,Niagara Falls Memorial Medical Center Clinic Treatment Prog,Clinic Treatment,"621 Tenth Street, Niagara Falls, NY, 14301-1813",POINT (-79.050429 43.093433),43.093433,-79.050429
+225,Health  Home Care Management C&Y,Health Home Care Management,"1444 5th Avenue, Bay Shore, NY, 11706",POINT (-73.263906 40.745565),40.745565,-73.263906
+228,Regional Planning Consortium,Advocacy/Support Services,"41 State Street Suite 505, Albany, NY, 12207",POINT (-73.751444 42.64915),42.64915,-73.751444
+231,Crisis Outreach,Outreach,"400 N. Main Street, Warsaw, NY, 14569-1097",POINT (-78.132533 42.753447),42.753447,-78.132533
+232,Family Counseling Center Mental Health Clinic,Clinic Treatment,"11-21 Broadway, Gloversville, NY, 12078-3968",POINT (-74.345287 43.048646),43.048646,-74.345287
+234,Child and Family Clinic,Clinic Treatment,"141 Broadway, Newburgh, NY, 12550-6204",POINT (-74.013232 41.50016),41.50016,-74.013232
+235,Mobile Integration Team,Mobile Integration Team,"1 Chimney Point Drive, Ogdensburg, NY, 13669",POINT (-75.451726 44.71765),44.71765,-75.451726
+236,Pilgrim PC Suffolk - HHCM,Health Home Care Management,"998 Crooked Hill Road, West Brentwood, NY, 11717",POINT (-73.286926 40.80409),40.80409,-73.286926
+239,Transitional Employment,Transitional Employment Placement (TEP),"36 Cady Hill Blvd, Saratoga Springs, NY, 12866",POINT (-73.822464 43.065307),43.065307,-73.822464
+240,Essex County Community Services Board - HH NonMed CM,Health Home Non-Medicaid Care Management,"7513 Court Street, Elizabethtown, NY, 12932-0008",POINT (-73.597912 44.212689),44.212689,-73.597912
+244,Drop In Center,Drop In Centers,"950 South Oyster Bay Road, Hicksville, NY, 11801",POINT (-73.499816 40.75716),40.75716,-73.499816
+245,Karen Horney Clinic,Clinic Treatment,"329 East 62nd Street, New York, NY, 10065-7788",POINT (-73.961853 40.762001),40.762001,-73.961853
+247,Family/Youth Intervention - Richmond,Home Based Crisis Intervention,"1765 South Ave, Staten Island, NY, 10314",POINT (-74.193675 40.601416),40.601416,-74.193675
+248,NMCC - Shelter Comm Psych Support & Treatment Initiative,Non-Medicaid Care Coordination,"939 Johnson Avenue, Ronkonkoma, NY, 11779",POINT (-73.12145 40.807643),40.807643,-73.12145
+252,Jefferson County Family Support Services,Family Peer Support Services - Children & Family,"210 Court Street, Watertown, NY, 13601",POINT (-75.91242 43.976989),43.976989,-75.91242
+253,YOUTH & FAMILY WELLNESS SERVICES DEPARTMENT,CFTSS: Other Licensed Practitioner (OLP),"116 East 124th Street 3rd Floor, New York, NY, 10035",POINT (-73.938708 40.804038),40.804038,-73.938708
+254,Intensive Day Treatment Program,Day Treatment,"197 Half Hollow Road, Dix Hills, NY, 11746-5861",POINT (-73.382467 40.792705),40.792705,-73.382467
+255,Crisis Bed,Respite Services,"406 2nd Street 1st Floor, Troy, NY, 12180",POINT (-73.694922 42.715863),42.715863,-73.694922
+256,Forensic Homeless Intensive Case Management Program,Non-Medicaid Care Coordination,"2090 7th Avenue, New York, NY, 10027",POINT (-73.948624 40.808706),40.808706,-73.948624
+258,North Shore University Hospital @ Syosset,Inpatient Psychiatric Unit of a General Hospital,"221 Jericho Turnpike, Syosset, NY, 11791-4567",POINT (-73.508109 40.810221),40.810221,-73.508109
+259,MH Alternative to Incarceration,Outreach,"112 East Post Road, White Plains, NY, 10601",POINT (-73.766405 41.028438),41.028438,-73.766405
+262,Affinity Place,Advocacy/Support Services,"269 Alexander Street, Rochester, NY, 14607",POINT (-77.595588 43.152772),43.152772,-77.595588
+264,CYFSS,Family Peer Support Services - Children & Family,"371 Main Street, Catskill, NY, 12414",POINT (-73.865349 42.218748),42.218748,-73.865349
+265,Career Quest,Ongoing Integrated Supported Employment Services,"115 E. Stevens Avenue, Valhalla, NY, 10595",POINT (-73.772351 41.097716),41.097716,-73.772351
+267,Mobile Crisis Team - Child & Youth,Crisis  Intervention,"100 N. Portland Avenue, Brooklyn, NY, 11205",POINT (-73.9762 40.695167),40.695167,-73.9762
+268,MFY - CSS Program,Advocacy/Support Services,"100 William Street, New York, NY, 10038",POINT (-74.007486 40.708511),40.708511,-74.007486
+269,Oswego Hospital ACT Program,Assertive Community Treatment (ACT),"29 East Cayuga Street, Oswego, NY, 13126-1241",POINT (-76.506744 43.459359),43.459359,-76.506744
+273,Serving Youth and Families,CFTSS: Family Peer Support Services (FPSS),"205 South Ave., Poughkeepsie, NY, 12601",POINT (-73.931602 41.690438),41.690438,-73.931602
+276,Stepping Stones,Comprehensive PROS with Clinical Treatment,"790 Park Avenue, Huntington, NY, 11743-4516",POINT (-73.391764 40.85724),40.85724,-73.391764
+277,The Brownell Center for Behavioral Health,Clinic Treatment,"1045 James Street, Syracuse, NY, 13203-2703",POINT (-76.132654 43.060118),43.060118,-76.132654
+278,Children's Mental Health Rehabilitation,CFTSS: Children's Mental Health Rehabilitation Services,"6395 Old Niagara Road, Lockport, NY, 14094-1421",POINT (-78.679576 43.18956),43.18956,-78.679576
+279,Henry Street Settlement PROS Express,Comprehensive PROS with Clinical Treatment,"40 Montgomery Street, New York, NY, 10002-4808",POINT (-73.985077 40.712709),40.712709,-73.985077
+280,St. Mary's Healthcare HH Non Mediciad Care Managment Fulton,Health Home Non-Medicaid Care Management,"427 Guy Park Avenue, Amsterdam, NY, 12010",POINT (-74.216041 42.953648),42.953648,-74.216041
+281,Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"400 Doansburg Road, Brewster, NY, 10509",POINT (-73.553038 41.453859),41.453859,-73.553038
+282,Genesee County Multicultural Initiatives,Multi-Cultural Initiative,"5130 E. Main Street Road, Batavia, NY, 14020",POINT (-78.142055 42.991197),42.991197,-78.142055
+284,Interfaith Medical Center Inpatient Psychiatric Unit,Inpatient Psychiatric Unit of a General Hospital,"1545 Atlantic Avenue, Brooklyn, NY, 11213",POINT (-73.937154 40.677866),40.677866,-73.937154
+286,Family Life Skills Education,Advocacy/Support Services,"166 Albany Ave, Kingston, NY, 12402-3516",POINT (-74.008506 41.933327),41.933327,-74.008506
+287,Consumer Outreach,Outreach,"140 Route 303, Valley Cottage, NY, 10989",POINT (-73.94233 41.12062),41.12062,-73.94233
+288,Charles Evans Center Mental Health Clinic,Clinic Treatment,"113 Glen Cove Avenue, Glen Cove, NY, 11542-3413",POINT (-73.635193 40.857443),40.857443,-73.635193
+291,Children's Crisis Hotline,Advocacy/Support Services,"6311 Court Street Road, E. Syracuse, NY, 13057-2942",POINT (-76.083207 43.090293),43.090293,-76.083207
+293,Bellevue Hospital ACT Program,Assertive Community Treatment (ACT),"462 First Avenue, New York, NY, 10016",POINT (-73.97625 40.740079),40.740079,-73.97625
+294,Adult Home _ Outreach,Outreach,"25 Flatbush Avenue, Brooklyn, NY, 11217",POINT (-73.980183 40.687916),40.687916,-73.980183
+295,Bellevue Hospital Outpatient Psychiatry Clinic,Clinic Treatment,"462 First Avenue, New York, NY, 10016-9196",POINT (-73.97625 40.740079),40.740079,-73.97625
+297,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"75 New Scotland Avenue, Albany, NY, 12208",POINT (-73.777893 42.652557),42.652557,-73.777893
+298,Ongoing Integrated Supported Employment,Ongoing Integrated Supported Employment Services,"29 Sterling Avenue, White Plains, NY, 10605",POINT (-73.774595 41.021251),41.021251,-73.774595
+299,Albany County DMH - HHCM,Health Home Care Management,"175 Green Street, Albany, NY, 12202",POINT (-73.754312 42.642015),42.642015,-73.754312
+300,Interborough ERS,Early Recognition Coordination and Screening Services,"887 East New York Avenue, Brooklyn, NY, 11213",POINT (-73.932698 40.662794),40.662794,-73.932698
+301,Assisted Outpatient Treatment,Advocacy/Support Services,"421 Montgomery Street - 10th Floor, Syracuse, NY, 13202",POINT (-76.148805 43.045777),43.045777,-76.148805
+302,Non-Medicaid Coordination Program,Non-Medicaid Care Coordination,"1 Amy Kay Parkway, Kingston, NY, 12401",POINT (-74.014618 41.916881),41.916881,-74.014618
+304,Healthy Steps,Advocacy/Support Services,"159 Margaret St., Plattsburg, NY, 12901",POINT (-73.453127 44.699946),44.699946,-73.453127
+305,CFTSS - Family Peer Support Services,CFTSS: Family Peer Support Services (FPSS),"763 Rutger Street, Utica, NY, 13501",POINT (-75.21586 43.092834),43.092834,-75.21586
+309,Youth Skill Building Services,Advocacy/Support Services,"274 N Goodman St, Rochester, NY, 14607",POINT (-77.585169 43.159062),43.159062,-77.585169
+310,Children's Care Coordination,Health Home Care Management,"100 East Old Country Rd, Mineola, NY, 11501",POINT (-73.630151 40.740617),40.740617,-73.630151
+311,CGS Family Counseling and Wellness Center,Clinic Treatment,"1990 Westchester Avenue, Bronx, NY, 10462-4553",POINT (-73.858051 40.833523),40.833523,-73.858051
+312,Youth and Family Consultation Center,Clinic Treatment,"25 Elm Place, Brooklyn, NY, 11201-5355",POINT (-73.984418 40.689587),40.689587,-73.984418
+313,MC Center - AOT,Advocacy/Support Services,"80 West Main Street, Rochester, NY, 14614",POINT (-77.614996 43.155145),43.155145,-77.614996
+314,CAS School Based Clinic - I.S. 218,Clinic Treatment,"4600 Broadway, New York, NY, 10040-2102",POINT (-73.930487 40.86112),40.86112,-73.930487
+315,Funding support for Probation Officer (ERUS),Non-Medicaid Care Coordination,"95 Franklin Street, Buffalo, NY, 14202",POINT (-78.877233 42.884115),42.884115,-78.877233
+317,Transitional Services Inc. - HH NonMed CM,Health Home Non-Medicaid Care Management,"389 Elmwood Avenue, Buffalo, NY, 14222",POINT (-78.877117 42.907648),42.907648,-78.877117
+318,Bridger - Non Medicaid CC,Non-Medicaid Care Coordination,"325 Columbia Street, Hudson, NY, 12534",POINT (-73.789459 42.252941),42.252941,-73.789459
+322,Residential Family Peer Partners Program,Family Peer Support Services - Children & Family,"1808 Route Six, Carmel, NY, 10512",POINT (-73.673375 41.418211),41.418211,-73.673375
+324,Non Medicaid Care Coordination St. Lawrence County,Non-Medicaid Care Coordination,"610 Cedar St., Ogdensburg, NY, 13669",POINT (-75.499579 44.680507),44.680507,-75.499579
+325,Wilderness Program for Youth At-Risk,Respite Services,"480 Old Westbury Road, Roslyn Heigts, NY, 11577",POINT (-73.632974 40.784157),40.784157,-73.632974
+326,NRCIL Outreach Program,Outreach,"5520 Jackson Street, Lowville, NY, 13367",POINT (-75.486036 43.782933),43.782933,-75.486036
+327,Cumberland Mental Health Clinic,Clinic Treatment,"100 N. Portland Avenue, Brooklyn, NY, 11205-2005",POINT (-73.9762 40.695167),40.695167,-73.9762
+328,Mobile Mental Health,Crisis  Intervention,"20 Crystal Street, Monticello, NY, 12701-1323",POINT (-74.689383 41.66296),41.66296,-74.689383
+329,Oswego Planned Respite,Respite Services,"215 Wyoming Street, Syracuse, NY, 13204",POINT (-76.160134 43.046684),43.046684,-76.160134
+330,Columbia Presbyterian Ctr Adult Psychiatric Outpatient Svc,Clinic Treatment,"635 W 165th Street, New York, NY, 10032-3724",POINT (-73.942534 40.839907),40.839907,-73.942534
+331,CFTSS: Youth Peer Support and Training,CFTSS: Youth Peer Support (YPS),"167 Polk St., Watertown, NY, 13601",POINT (-75.90581 43.974662),43.974662,-75.90581
+332,Cattaraugus County DCS - HH Non- Med CM,Health Home Non-Medicaid Care Management,"212 Laurens Street, Olean, NY, 14760",POINT (-78.432067 42.079481),42.079481,-78.432067
+333,Health  Home Care Management C&Y,Health Home Care Management,"2384 Atlantic Avenue, Brooklyn, NY, 11233",POINT (-73.90578 40.675962),40.675962,-73.90578
+334,Transition Mgt Kendra,Transition Management Services,"20 Community Lane, Liberty, NY, 12754-0716",POINT (-74.709537 41.796085),41.796085,-74.709537
+335,Case Management Bridger Program,Advocacy/Support Services,"998 Crooked Hill Road, West Brentwood, NY, 11717",POINT (-73.286926 40.80409),40.80409,-73.286926
+336,Montefiore Mount Vernon Hospital Mental Health Unit,Inpatient Psychiatric Unit of a General Hospital,"12 North Seventh Avenue, Mount Vernon, NY, 10550",POINT (-73.840011 40.912754),40.912754,-73.840011
+338,Non Medicaid Care Coordination-Nick's Ride,Non-Medicaid Care Coordination,"12 South Street, Auburn, NY, 13021",POINT (-76.566099 42.931205),42.931205,-76.566099
+339,Health Home Non-Medicaid Care Management,Health Home Non-Medicaid Care Management,"196 Water Street, Elizabethtown, NY, 12932",POINT (-73.59303 44.217394),44.217394,-73.59303
+340,4950 - CFTSS: Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"384 East 149th Street, Bronx, NY, 10455",POINT (-73.918396 40.816194),40.816194,-73.918396
+342,Geriatric Outreach - Bronx,Outreach,"489 E. 153rd St, Bronx, NY, 10455",POINT (-73.914177 40.818382),40.818382,-73.914177
+344,Foundation for Integrated Recovery Services and Treatment,Comprehensive PROS with Clinical Treatment,"998 Crooked Hill Road, West Brentwood, NY, 11717-1087",POINT (-73.286926 40.80409),40.80409,-73.286926
+346,Dutchess Rose House,Self-Help Programs,"803 Violet Avenue, Hyde Park, NY, 12538",POINT (-73.908501 41.767209),41.767209,-73.908501
+347,Transitional Management,Transition Management Services,"2155 State Route 22b, Morrisonville, NY, 12962-3417",POINT (-73.535331 44.696168),44.696168,-73.535331
+351,Image Center,Drop In Centers,"235 North Prospect Street, Herkimer, NY, 13350",POINT (-74.989564 43.026963),43.026963,-74.989564
+352,Jail Diversion Program,Advocacy/Support Services,"725 Veterans Memorial Highway, Hauppauge, NY, 11788",POINT (-73.208455 40.822971),40.822971,-73.208455
+355,Credo Community Center MH Clinic,Clinic Treatment,"595 West Main Street, Watertown, NY, 13601-1335",POINT (-75.915671 43.982647),43.982647,-75.915671
+356,Peer Advocacy - Albany County,Advocacy/Support Services,"260 South Pearl Street, Albany, NY, 12202",POINT (-73.75638 42.642565),42.642565,-73.75638
+357,Representative Payee services,Advocacy/Support Services,"11 Mohawk Place, Amsterdam, NY, 12010",POINT (-74.195454 42.939615),42.939615,-74.195454
+359,Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"310 Main Street, Utica, NY, 13501",POINT (-75.224324 43.104037),43.104037,-75.224324
+360,CFTSS: Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"790 Ridge Rd, Lackawanna, NY, 14218",POINT (-78.820737 42.826184),42.826184,-78.820737
+361,Coney Island Hospital Consultation/Liaison Program,Advocacy/Support Services,"2601 Ocean Parkway, Brooklyn, NY, 11235",POINT (-73.966285 40.58494),40.58494,-73.966285
+363,Transitional Manager Services,Transition Management Services,"5130 E. Main Street Road, Batavia, NY, 14020",POINT (-78.142055 42.991197),42.991197,-78.142055
+364,Lakeview Mental Health Services - HH CM - Ontario,Health Home Care Management,"611 W. Washington Street, Geneva, NY, 14456",POINT (-77.006885 42.85991),42.85991,-77.006885
+367,Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"1 Echo Hills, Dobbs Ferry, NY, 10522",POINT (-73.863783 41.004108),41.004108,-73.863783
+372,Otsego Voc/Ed Support Program,Work Program,"9 River Street, Oneonta, NY, 13820",POINT (-75.064731 42.448599),42.448599,-75.064731
+376,Ellis Mental Health Clinic,Clinic Treatment,"1023 State Street, Schenectady, NY, 12307-1511",POINT (-73.928339 42.801916),42.801916,-73.928339
+378,Elmcrest Children's Center,CFTSS: Children's Mental Health Rehabilitation Services,"960 Salt Springs Road, Syracuse, NY, 13224-1639",POINT (-76.099755 43.046847),43.046847,-76.099755
+379,CRISIS PEER ENGAGEMENT SPECIALIST,Advocacy/Support Services,"9 River Street, Oneonta, NY, 13820",POINT (-75.064731 42.448599),42.448599,-75.064731
+380,CFTSS: OLP and CPST,CFTSS: Children's Mental Health Rehabilitation Services,"624 Elizabeth Street, Utica, NY, 13501-2413",POINT (-75.219999 43.097779),43.097779,-75.219999
+382,Federation of Organizations Babylon ACT Program,Assertive Community Treatment (ACT),"11 Farmingdale Road, West Babylon, NY, 11704-6207",POINT (-73.345066 40.70455),40.70455,-73.345066
+383,Wellness Advocacy & Support,Advocacy/Support Services,"300 Aaron Court, Kingston, NY, 12401",POINT (-74.015047 41.935186),41.935186,-74.015047
+384,Compeer NYS,Advocacy/Support Services,"24 Ludington Street, Buffalo, NY, 14206",POINT (-78.813415 42.887194),42.887194,-78.813415
+385,Crossroads Counseling Center,Clinic Treatment,"135 West 50th Street, New York, NY, 10020-0002",POINT (-73.982247 40.760684),40.760684,-73.982247
+386,Gouverneur Hospital Mental Health Clinic,Clinic Treatment,"227 Madison Street, New York, NY, 10002",POINT (-73.987825 40.713132),40.713132,-73.987825
+387,The Jewish Board Shelter ACT Team,Assertive Community Treatment (ACT),"1007 Quentin Road, Brooklyn, NY, 11233-2341",POINT (-73.962591 40.607778),40.607778,-73.962591
+389,Crisis Intervention,Crisis  Intervention,"6096 Nys Route 9n, Westport, NY, 12993",POINT (-73.428083 44.159161),44.159161,-73.428083
+390,ADULT NON-MEDICAID CASE MANAGEMENT,Non-Medicaid Care Coordination,"290 Front Street, Binghamton, NY, 13905",POINT (-75.913824 42.108734),42.108734,-75.913824
+391,Suicide Prevention Services,Advocacy/Support Services,"502 Court Street, Utica, NY, 13502",POINT (-75.239446 43.101314),43.101314,-75.239446
+392,Children & Youth Family Support Program,Family Peer Support Services - Children & Family,"259 Monroe Avenue, Rochester, NY, 14607-3632",POINT (-77.599016 43.149591),43.149591,-77.599016
+393,Children and Family Treatment and Support Services,CFTSS: Community Psychiatric Support and Treatment (CPST),"100 N Broadway, Irvington, NY, 10533",POINT (-73.862208 41.045682),41.045682,-73.862208
+394,ORANGE C & Y CARE COORDINATION,Advocacy/Support Services,"30 Matthews Street Suite 204, Goshen, NY, 10924",POINT (-74.336732 41.397674),41.397674,-74.336732
+395,Cayuga Medical Center at Ithaca Psychiatric Unit,Inpatient Psychiatric Unit of a General Hospital,"101 Dates Drive, Ithaca, NY, 14850-1342",POINT (-76.538808 42.467096),42.467096,-76.538808
+396,Orleans Transportation,Transportation,"243 South Main Street, Albion, NY, 14411",POINT (-78.193953 43.238413),43.238413,-78.193953
+398,Queens Hospital Center Adult Mental Health Clinic,Clinic Treatment,"82-50 164th Street, Jamaica, NY, 11432-1121",POINT (-73.803674 40.717805),40.717805,-73.803674
+399,Hutchings PC @ Onondaga CM Services - HHCM,Health Home Care Management,"220 Herald Place, Syracuse, NY, 13202",POINT (-76.15455 43.053348),43.053348,-76.15455
+400,Health Home Care Management,Health Home Care Management,"201 Nott Terrace, Schenectady, NY, 12307",POINT (-73.936847 42.811028),42.811028,-73.936847
+401,Monsignor Patrick J. Frawley Mental Health Clinic,Clinic Treatment,"255 Lafayette Avenue, Suffern, NY, 10901-4812",POINT (-74.136248 41.112389),41.112389,-74.136248
+402,The Recovery Center,Psychosocial Club,"140 Old Orangeburg Road, Orangeburg, NY, 10962",POINT (-73.969781 41.044479),41.044479,-73.969781
+403,Drop In Center,Drop In Centers,"290 Front Street, Binghamton, NY, 13905",POINT (-75.913824 42.108734),42.108734,-75.913824
+404,Queens Hospital Center Child & Adolescent OPD,Clinic Treatment,"82-50 164th Street, Jamaica, NY, 11432-1121",POINT (-73.803674 40.717805),40.717805,-73.803674
+405,Respite,Respite Services,"106 No. Broadway, White Plains, NY, 10606",POINT (-73.767762 41.041071),41.041071,-73.767762
+406,Orleans Advocacy Services,Advocacy/Support Services,"243 South Main Street, Albion, NY, 14411",POINT (-78.193953 43.238413),43.238413,-78.193953
+407,St. Catherine's Center for Children Day Treatment Program,Day Treatment,"30 North Main Avenue, Albany, NY, 12203-1498",POINT (-73.787297 42.666113),42.666113,-73.787297
+410,WSFSSH NYC DMH NY/NY I-Fleming,On-Site Rehabilitation,"443 W. 22nd Street, New York, NY, 10011-2501",POINT (-74.003206 40.74641),40.74641,-74.003206
+412,Rome Memorial Hospital Senior Behavioral Health Unit,Inpatient Psychiatric Unit of a General Hospital,"1500 North James Street, Rome, NY, 13440",POINT (-75.444248 43.228954),43.228954,-75.444248
+414,Northeast - Pleasant Valley Elementary - SBMH,School Mental Health Program,"1097 Forest Road, Schenectady, NY, 12308",POINT (-73.941137 42.79878),42.79878,-73.941137
+415,Sephardic Bikur Holim Clinic,Clinic Treatment,"1955 Mcdonald Avenue, Brooklyn, NY, 11223-1805",POINT (-73.972268 40.604948),40.604948,-73.972268
+416,Non-Medicaid Care Coordination,Non-Medicaid Care Coordination,"80 State Highway 310, Canton, NY, 13617",POINT (-75.150577 44.601538),44.601538,-75.150577
+417,Brentwood Mental Health Center,Clinic Treatment,"1841 Brentwood Road, Brentwood, NY, 11717-4625",POINT (-73.246166 40.779078),40.779078,-73.246166
+418,Home Based Crisis,Home Based Crisis Intervention,"11 Mohawk Place, Amsterdam, NY, 12010",POINT (-74.195454 42.939615),42.939615,-74.195454
+419,Outpatient Psychiatry Clinic,Clinic Treatment,"713 Harrison Street, Syracuse, NY, 13210-2305",POINT (-76.141464 43.044361),43.044361,-76.141464
+420,Case management,Non-Medicaid Care Coordination,"335 Grider St, Buffalo, NY, 14215",POINT (-78.829133 42.923779),42.923779,-78.829133
+422,Health  Home Care Management C&Y,Health Home Care Management,"310 Pennsylvania Avenue, Elmira, NY, 14904",POINT (-76.800671 42.083194),42.083194,-76.800671
+423,Crisis Respite,Respite Services,"16 Main Street, Hempstead, NY, 11550",POINT (-73.623859 40.706831),40.706831,-73.623859
+425,Family Peer Support Services of Chau,Family Peer Support Services - Children & Family,"2 Academy Street Room 200, Mayville, NY, 14757-1050",POINT (-79.507201 42.254236),42.254236,-79.507201
+429,Psychiatric Consultation/Forensic 9-2,Advocacy/Support Services,"462 Grider Street, Buffalo, NY, 14215",POINT (-78.829151 42.927236),42.927236,-78.829151
+430,Psychiatric Emergency,Crisis  Intervention,"89 Genesee Street, Rochester, NY, 14611",POINT (-77.636063 43.148941),43.148941,-77.636063
+431,Tioga County Social Club,Psychosocial Club,"175 Main Street, Owego, NY, 13827",POINT (-76.262572 42.103558),42.103558,-76.262572
+433,WCCH Mental Health Unit,Inpatient Psychiatric Unit of a General Hospital,"400 N. Main Street, Warsaw, NY, 14569-1097",POINT (-78.132533 42.753447),42.753447,-78.132533
+434,ACT Program Kings,Assertive Community Treatment (ACT),"2010 Atlantic Avenue, Brooklyn, NY, 11233-3163",POINT (-73.920862 40.676801),40.676801,-73.920862
+435,Children's Mental Health Rehabilitation,CFTSS: Children's Mental Health Rehabilitation Services,"37 West 26th Street, New York, NY, 10010-1003",POINT (-73.990523 40.744429),40.744429,-73.990523
+436,Bronx Health Services Center,Clinic Treatment,"910 E. 172nd Street, Bronx, NY, 10460-5802",POINT (-73.890072 40.834178),40.834178,-73.890072
+437,Adolescent Skills Center Queens,Vocational Services - Children & Family (C & F),"29-46 Northern Blvd, Long Island City, NY, 11101",POINT (-73.935905 40.749903),40.749903,-73.935905
+438,Harbor House,Drop In Centers,"130 Genesee Street, Buffalo, NY, 14203",POINT (-78.869251 42.889987),42.889987,-78.869251
+439,Health  Home Care Management C&Y,Health Home Care Management,"115 Liberty Street, Bath, NY, 14810",POINT (-77.318121 42.336013),42.336013,-77.318121
+442,MyBody Program,Advocacy/Support Services,"159 Brightside Avenue, Central Islip, NY, 11722",POINT (-73.219092 40.785627),40.785627,-73.219092
+443,Catholic Charities of Chenango County HHCM,Health Home Care Management,"3 O'Hara Drive, Norwich, NY, 13815-2046",POINT (-75.520018 42.520087),42.520087,-75.520018
+444,CFTSS: Pyschosocial Rehabilitation (PSR),CFTSS: Psychosocial Rehabilitation (PSR),"31 6th Street, Malone, NY, 12953",POINT (-74.290401 44.860752),44.860752,-74.290401
+446,Service Supports Transitions Advocacy Access for Youth,Advocacy/Support Services,"3600 Route 112, Coram, NY, 11727",POINT (-72.998549 40.858909),40.858909,-72.998549
+447,Transitional Business Model,Transformed Business Model,"950 Danby Rd, Ithaca, NY, 14850",POINT (-76.500445 42.423665),42.423665,-76.500445
+448,Targeted Assertive Outreach (ACT),Assertive Community Treatment (ACT),"10 Nathan D Perlman Place, New York, NY, 10003-3881",POINT (-73.98302 40.733587),40.733587,-73.98302
+449,John D. Kelly Clinic,Clinic Treatment,"418 N. Main Street, Penn Yan, NY, 14527-1085",POINT (-77.059591 42.670468),42.670468,-77.059591
+450,Consultation/Liaison Unit,Advocacy/Support Services,"100 E. 77th Street, New York, NY, 10075",POINT (-73.960611 40.773964),40.773964,-73.960611
+453,Lakeside Clinic,Clinic Treatment,"355 Central Avenue, Fredonia, NY, 14063-1125",POINT (-79.333963 42.456183),42.456183,-79.333963
+455,Outreach Case Management,Outreach,"16-24 Union Street, Middletown, NY, 10940",POINT (-74.422127 41.447102),41.447102,-74.422127
+456,Health  Home Care Management C&Y,Health Home Care Management,"4600 Millennium Drive, Geneseo, NY, 14454",POINT (-77.790421 42.79823),42.79823,-77.790421
+457,Family Support Services,Family Peer Support Services - Children & Family,"614 Cooper Hill Road, Wynantskill, NY, 12198",POINT (-73.614978 42.689917),42.689917,-73.614978
+458,Fast Break Plus,CFTSS: Mobile Crisis Intervention (CI),"419 East 86th Street, New York, NY, 10028",POINT (-73.948562 40.776541),40.776541,-73.948562
+459,Child and Adolescent Psychiatry Services,Clinic Treatment,"98 N 2nd Street, Fulton, NY, 13069-1254",POINT (-76.416806 43.326437),43.326437,-76.416806
+460,CFTSS: Psychosocial Rehabilitation (PSR),CFTSS: Psychosocial Rehabilitation (PSR),"858 E.29th Street, Brooklyn, NY, 11210",POINT (-73.948503 40.630015),40.630015,-73.948503
+462,Other Licensed Practitioner,CFTSS: Other Licensed Practitioner (OLP),"960 Salt Springs Road, Syracuse, NY, 13224",POINT (-76.099755 43.046847),43.046847,-76.099755
+463,NYS ARC Seneca-Cayuga-Yates Chapter Voc Program,Ongoing Integrated Supported Employment Services,"235 North Ave, Penn Yan, NY, 14527",POINT (-77.055909 42.669681),42.669681,-77.055909
+465,Enhanced Community Support Services- Peers,Advocacy/Support Services,"25 West Steuben St, Bath, NY, 14810",POINT (-77.319845 42.333623),42.333623,-77.319845
+467,CFTSS: Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"1808 Route 6, Carmel, NY, 10512",POINT (-73.673375 41.418211),41.418211,-73.673375
+468,Residential Family Support Partners Program,Family Peer Support Services - Children & Family,"25 West Steuben Street, Bath, NY, 14810",POINT (-77.319845 42.333623),42.333623,-77.319845
+470,Health Home Non Medicaid Care Management C&Y,Health Home Non-Medicaid Care Management,"19-14 Brookhaven Ave, Far Rockaway, NY, 11691",POINT (-73.753074 40.599359),40.599359,-73.753074
+471,Children and Family Treatment and Support Services,CFTSS: Community Psychiatric Support and Treatment (CPST),"315 Wyckoff Avenue, Brooklyn, NY, 11237",POINT (-73.912085 40.700088),40.700088,-73.912085
+472,Graham-Windham Manhattan Center,Clinic Treatment,"274 West 145th Street, New York, NY, 10039",POINT (-73.941528 40.822674),40.822674,-73.941528
+473,Visiting Nurse Service of NY - HH CM,Health Home Care Management,"1250 Broadway, New York, NY, 10001",POINT (-73.988306 40.747595),40.747595,-73.988306
+476,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"400 Forest Avenue, Buffalo, NY, 14213-1298",POINT (-78.880201 42.929258),42.929258,-78.880201
+477,Dutchess Intensive Day Treatment,Day Treatment,"5 Boces Road, Poughkeepsie, NY, 12601-6565",POINT (-73.866453 41.743819),41.743819,-73.866453
+480,Family Resource Center of Northern Bronx,Family Peer Support Services - Children & Family,"975 Kelly Street, Bronx, NY, 10459",POINT (-73.895881 40.82218),40.82218,-73.895881
+481,Advocacy,Advocacy/Support Services,"159 Brightside Avenue, Central Islip, NY, 11722-2710",POINT (-73.219092 40.785627),40.785627,-73.219092
+483,Youth Emergency Services,Advocacy/Support Services,"1099 Jay Street, Rochester, NY, 14611",POINT (-77.650727 43.159364),43.159364,-77.650727
+486,Transition Management,Transition Management Services,"45 North Broad Street, Wellsville, NY, 14895",POINT (-77.943182 42.12048),42.12048,-77.943182
+487,The Unity Hospital of Rochester Psychiatric Inpatient Unit,Inpatient Psychiatric Unit of a General Hospital,"89 Genesee Street, Rochester, NY, 14611-3201",POINT (-77.636063 43.148941),43.148941,-77.636063
+488,Peer Advocacy,Advocacy/Support Services,"315 South Highland Avenue, Briarcliff Manor, NY, 10510",POINT (-73.861353 41.142498),41.142498,-73.861353
+489,Health  Home Care Management C&Y,Health Home Care Management,"482 Black River Parkway, Watertown, NY, 13601",POINT (-75.916942 43.980199),43.980199,-75.916942
+491,Kendra's Transitional Management,Transition Management Services,"7 Clayton Avenue, Cortland, NY, 13045",POINT (-76.181423 42.597999),42.597999,-76.181423
+493,CFTSS: Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"118-35 Queens Boulevard, Forest Hills, NY, 11375-7211",POINT (-73.831655 40.714935),40.714935,-73.831655
+494,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"777 Seaview Avenue, Staten Island, NY, 10305",POINT (-74.07829 40.579599),40.579599,-74.07829
+495,NUMC - Emergency Room,Crisis  Intervention,"2201 Hempstead Turnpike, East Meadow, NY, 11554",POINT (-73.554413 40.725298),40.725298,-73.554413
+496,Center for Wellbeing,Clinic Treatment,"25 Willowbrook Road, Queensbury, NY, 12804-3137",POINT (-73.653471 43.344115),43.344115,-73.653471
+497,Columbia-Greene Children's Planned Respite,Respite Services,"455 Main Street, Catskill, NY, 12414",POINT (-73.866463 42.22162),42.22162,-73.866463
+499,HONOR Adult Shelter,Respite Services,"38 Seward Avenue, Middletown, NY, 10940",POINT (-74.438066 41.453116),41.453116,-74.438066
+500,Psychosocial Club/The Other Place,Psychosocial Club,"263 West 86th Street, New York, NY, 10024",POINT (-73.977466 40.788722),40.788722,-73.977466
+501,Children's Crisis Services,Crisis  Intervention,"580 White Plains Road, Tarrytown, NY, 10591",POINT (-73.83792 41.062592),41.062592,-73.83792
+502,Forensic Crisis Intervention,Crisis  Intervention,"9 River Street, Oneonta, NY, 13820",POINT (-75.064731 42.448599),42.448599,-75.064731
+505,North Collins PROS,Comprehensive PROS with Clinical Treatment,"2101 Spruce Street, North Collins, NY, 14111-9701",POINT (-78.935793 42.594315),42.594315,-78.935793
+509,Crossroads PROS,Comprehensive PROS without Clinical Treatment,"2040 Seneca Street, Buffalo, NY, 14210-2324",POINT (-78.810705 42.856184),42.856184,-78.810705
+510,Health  Home Care Management C&Y,Health Home Care Management,"127 Union Street, Saratoga Springs, NY, 12866-4411",POINT (-73.789913 43.071739),43.071739,-73.789913
+513,Hospital Diversion Services,Respite Services,"713 Union St., Hudson, NY, 12534",POINT (-73.784197 42.246575),42.246575,-73.784197
+514,Astor at Highbridge Clinic,Clinic Treatment,"1419 Shakespeare Avenue, Bronx, NY, 10452-1851",POINT (-73.920918 40.842439),40.842439,-73.920918
+515,Warren-Washington AMH Youth Health Home Non Mediciad CM,Health Home Non-Medicaid Care Management,"230 Maple Street, Warren, NY, 12801",POINT (-73.63216 43.312022),43.312022,-73.63216
+516,Ohel Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"1268 East 14th Street, Brooklyn, NY, 11230",POINT (-73.960998 40.61821),40.61821,-73.960998
+518,St. Mary's Hospital CMHAC Inpatient Unit,Inpatient Psychiatric Unit of a General Hospital,"427 Guy Park Avenue, Amsterdam, NY, 12010-1003",POINT (-74.216041 42.953648),42.953648,-74.216041
+520,Western Queens Consultation Center,Clinic Treatment,"44-04 Queens Boulevard, Sunnyside, NY, 11104-2406",POINT (-73.920353 40.743207),40.743207,-73.920353
+524,Northside Center for Child Development Clinic,Clinic Treatment,"1475 Park Avenue, New York, NY, 10029",POINT (-73.946821 40.794185),40.794185,-73.946821
+525,Elmhurst Hospital Center - HBCI,Home Based Crisis Intervention,"79-01 Broadway, Elmhurst, NY, 11373",POINT (-73.88598 40.74434),40.74434,-73.88598
+527,Mobile Crisis Management - Queens,Crisis  Intervention,"75-20 Astoria Blvd, Jackson Heights, NY, 11370",POINT (-73.893557 40.765985),40.765985,-73.893557
+533,Home and Community Support Services,CFTSS: Community Psychiatric Support and Treatment (CPST),"844 Delaware Avenue, Buffalo, NY, 14209",POINT (-78.87158 42.907114),42.907114,-78.87158
+536,Pathway Home,Outreach,"55 Broadway, New York, NY, 10006",POINT (-74.012608 40.706646),40.706646,-74.012608
+537,Maimonides Medical Center Inpatient Unit,Inpatient Psychiatric Unit of a General Hospital,"920 48th Street, Brooklyn, NY, 11219-2918",POINT (-73.999603 40.640462),40.640462,-73.999603
+538,Putnam Hospital Center Psychiatric Inpatient Service,Inpatient Psychiatric Unit of a General Hospital,"670 Stoneleigh Avenue, Carmel, NY, 10512-3997",POINT (-73.664475 41.384844),41.384844,-73.664475
+539,Great Finds,Transitional Employment Placement (TEP),"260 Washington Avenue, Albany, NY, 12210",POINT (-73.765224 42.657848),42.657848,-73.765224
+541,Peconic Center,Clinic Treatment,"550 East Main Street, Riverhead, NY, 11901-2672",POINT (-72.655015 40.919608),40.919608,-72.655015
+545,Advocacy Services - Wyoming TAP,Advocacy/Support Services,"35 Culver Avenue Extension, Warsaw, NY, 14569",POINT (-78.134366 42.748837),42.748837,-78.134366
+546,Non-Medicaid Care Coordination,Non-Medicaid Care Coordination,"16-24 Union Street, Middletown, NY, 10940",POINT (-74.422127 41.447102),41.447102,-74.422127
+547,Family Service League - HH CM,Health Home Care Management,"1444 5th Avenue, Bay Shore, NY, 11706",POINT (-73.263906 40.745565),40.745565,-73.263906
+549,Elmira PC - C&Y HHCM - Yates,Health Home Care Management,"100 Washington Street, Elmira, NY, 14901",POINT (-76.795313 42.091164),42.091164,-76.795313
+552,Jamestown Mental Health Clinic,Clinic Treatment,"200 E. 3rd Street, Jamestown, NY, 14701-5433",POINT (-79.240573 42.096486),42.096486,-79.240573
+553,Crisis Intervention,Crisis  Intervention,"1425 Portland Avenue, Rochester, NY, 14621-3086",POINT (-77.584424 43.192542),43.192542,-77.584424
+554,BHSN CFTSS Youth Peer Support and Training,CFTSS: Youth Peer Support (YPS),"2155 State Route 22b, Morrisonville, NY, 12962",POINT (-73.535331 44.696168),44.696168,-73.535331
+557,Mobile Integration Team,Mobile Integration Team,"75 New Scotland Avenue, Albany, NY, 12208",POINT (-73.777893 42.652557),42.652557,-73.777893
+558,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"1 Chimney Point Drive, Ogdensburg, NY, 13669-2610",POINT (-75.451726 44.71765),44.71765,-75.451726
+559,Tompkins County Mental Health Clinic,Clinic Treatment,"201 E. Green Street, Ithaca, NY, 14850-5421",POINT (-76.496477 42.438706),42.438706,-76.496477
+561,Transition Management,Transition Management Services,"325 Columbia Street, Hudson, NY, 12534",POINT (-73.789459 42.252941),42.252941,-73.789459
+562,Sullivan County - HH Non-Medicaid CM,Health Home Non-Medicaid Care Management,"20 Community Lane, Liberty, NY, 12754-0716",POINT (-74.709537 41.796085),41.796085,-74.709537
+564,WellLife - HH Non-Medicaid CM,Health Home Non-Medicaid Care Management,"142-02 20th Avenue, Flushing, NY, 11351-9712",POINT (-73.828216 40.781664),40.781664,-73.828216
+569,Liberty Resources Inc. - HH CM,Health Home Care Management,"218 Liberty Street, Oneida, NY, 13421",POINT (-75.654913 43.09553),43.09553,-75.654913
+570,The League School,Day Treatment,"567 Kingston Avenue, Brooklyn, NY, 11203",POINT (-73.942518 40.659607),40.659607,-73.942518
+572,Respite Services,Respite Services,"230 Maple Street, Glens Falls, NY, 12801",POINT (-73.63216 43.312022),43.312022,-73.63216
+574,Floating Hospital Clinic,Clinic Treatment,"25-15 Queens Plaza, Long Island City, NY, 11101-3825",POINT (-73.939992 40.750256),40.750256,-73.939992
+576,Non-Medicaid Care Coordination ? Manhattan-Queens,Health Home Non-Medicaid Care Management,"1060 Myrtle Avenue, Brooklyn, NY, 11206",POINT (-73.939056 40.696548),40.696548,-73.939056
+578,URAM-Harlem United Wellness Center,Clinic Treatment,"169 W 133rd Street, New York, NY, 10030-3301",POINT (-73.944062 40.813761),40.813761,-73.944062
+582,Leisure Lounge,Drop In Centers,"73 North Main Street, Gloversville, NY, 12078",POINT (-74.344196 43.052383),43.052383,-74.344196
+585,Community Counseling Center of Seneca County,Clinic Treatment,"31 Thurber Drive, Waterloo, NY, 13165-1659",POINT (-76.844816 42.906298),42.906298,-76.844816
+589,Recovery Support Team,On-Site Rehabilitation,"550 Cedar Street, Syracuse, NY, 13210",POINT (-76.139975 43.046165),43.046165,-76.139975
+590,VCS Mental Health Clinic,Clinic Treatment,"77 South Main Street, New City, NY, 10956-3511",POINT (-73.989907 41.144793),41.144793,-73.989907
+592,Coney Island Clinic,Clinic Treatment,"2846 Stillwell Avenue, Brooklyn, NY, 11224-2624",POINT (-73.981745 40.578013),40.578013,-73.981745
+593,Transition Management,Transition Management Services,"301 N. Washington Street, Herkimer, NY, 13350",POINT (-74.98748 43.029236),43.029236,-74.98748
+594,JBFCS Madeleine Borg Bronx Consultation Center,Clinic Treatment,"750 Astor Avenue, Bronx, NY, 10467-9304",POINT (-73.865331 40.859575),40.859575,-73.865331
+595,Samaritan Hospital PROS,Comprehensive PROS with Clinical Treatment,"1801 6th Avenue, Troy, NY, 12180-3478",POINT (-73.686379 42.73149),42.73149,-73.686379
+596,Villa of Hope- FTSS Community Psychiatric Support & Treatmet,CFTSS: Community Psychiatric Support and Treatment (CPST),"1099 Jay Street Building J, Rochester, NY, 14611",POINT (-77.650727 43.159364),43.159364,-77.650727
+597,Children's Home Of Wyoming Conference Day Treatment,Day Treatment,"1160 Chenango Street, Binghamton, NY, 13901-1653",POINT (-75.885239 42.151719),42.151719,-75.885239
+598,SULLVIAN NON MEDICAID C/M,Health Home Non-Medicaid Care Management,"20 Crystal Street, Monticello, NY, 12701",POINT (-74.689383 41.66296),41.66296,-74.689383
+599,Multicultural Initiative,Multi-Cultural Initiative,"404 State Route 37, Akwesasne, NY, 13655",POINT (-74.685889 44.978595),44.978595,-74.685889
+603,Coordinated Children's Services Mental Health Clinic,Clinic Treatment,"1081 Development Court, Kingston, NY, 12401-1959",POINT (-73.995596 41.947538),41.947538,-73.995596
+604,Self Help,Self-Help Programs,"580 White Plains Road, Tarrytown, NY, 10591",POINT (-73.83792 41.062592),41.062592,-73.83792
+607,CFTSS: Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"1507 State Street, Watertown, NY, 13601",POINT (-75.88695 43.968821),43.968821,-75.88695
+608,Family Support Services,Family Peer Support Services - Children & Family,"5520 Jackson Street, Lowville, NY, 13367",POINT (-75.486036 43.782933),43.782933,-75.486036
+612,Schoharie County Mental Health Center,Clinic Treatment,"113 Park Place, Schoharie, NY, 12157",POINT (-74.311001 42.702894),42.702894,-74.311001
+616,Staten Island MH Society CHAIT Clinic of RUMC,Clinic Treatment,"669 Castleton Avenue, Staten Island, NY, 10301-2028",POINT (-74.103752 40.634696),40.634696,-74.103752
+617,The Healing Connection,Partial Hospitalization,"1320 University Avenue, Rochester, NY, 14607-1622",POINT (-77.567222 43.150544),43.150544,-77.567222
+618,Equinox Outpatient Clinic,Clinic Treatment,"500 Central Avenue, Albany, NY, 12206-2213",POINT (-73.778383 42.669911),42.669911,-73.778383
+619,Bensonhurst ACT,Assertive Community Treatment (ACT),"8620 18th Avenue, Brooklyn, NY, 11214-3702",POINT (-74.003184 40.606765),40.606765,-74.003184
+622,RCPC Health Home C&Y Care Managment Sullivan,Health Home Care Management,"125 Buckly Street, Liberty, NY, 12745",POINT (-74.754322 41.805488),41.805488,-74.754322
+624,MHA Westchester - Non Medicaid CC,Non-Medicaid Care Coordination,"580 White Plains Road, Tarrytown, NY, 10591-5198",POINT (-73.83792 41.062592),41.062592,-73.83792
+626,Mental Health Law Project,Advocacy/Support Services,"1757 Veterans Highway, Islandia, NY, 11749",POINT (-73.180131 40.805351),40.805351,-73.180131
+628,Monsignor Carr Institute,Clinic Treatment,"76 West Humboldt Parkway, Buffalo, NY, 14214-2605",POINT (-78.854072 42.930028),42.930028,-78.854072
+629,Peer Advocacy,Advocacy/Support Services,"2037 Utica Avenue, Brooklyn, NY, 11234",POINT (-73.927223 40.622127),40.622127,-73.927223
+630,Family TIES,Home Based Crisis Intervention,"15-17 Hopper St, Utica, NY, 13501",POINT (-75.233329 43.098286),43.098286,-75.233329
+631,Jamaica Hospital Medical Center CPEP,CPEP Crisis Intervention,"8900 Van Wyck Expressway, Jamaica, NY, 11418-2897",POINT (-73.815742 40.700404),40.700404,-73.815742
+634,Community Psychiatric Support and Treatment - Genovese,CFTSS: Community Psychiatric Support and Treatment (CPST),"89-30 161st Street, Jamaica, NY, 11432",POINT (-73.799479 40.70558),40.70558,-73.799479
+635,Psychosocial Club,Psychosocial Club,"54 Bay Street, Glens Falls, NY, 12801",POINT (-73.646946 43.312636),43.312636,-73.646946
+636,Union Settlement,CFTSS: Other Licensed Practitioner (OLP),"237 104th St, New York, NY, 10029",POINT (-73.944497 40.789779),40.789779,-73.944497
+637,St. Joseph's Medical Center - St. Vincent's Westchester Div.,Inpatient Psychiatric Unit of a General Hospital,"275 North Street, Harrison, NY, 10528-1524",POINT (-73.71001 40.988342),40.988342,-73.71001
+639,Parent to Parent,Family Peer Support Services - Children & Family,"790 Park Avenue, Huntington, NY, 11743",POINT (-73.391764 40.85724),40.85724,-73.391764
+641,Family Peer Support Services,CFTSS: Family Peer Support Services (FPSS),"6395 Old Niagara Rd, Lockport, NY, 14094",POINT (-78.679576 43.18956),43.18956,-78.679576
+644,South Beach Seaview Academy,Day Treatment,"777 Seaview Avenue, Staten Island, NY, 10305-3409",POINT (-74.07829 40.579599),40.579599,-74.07829
+645,TIOGA WARM LINE PROGRAM,Advocacy/Support Services,"175 Main Street, Owego, NY, 13827",POINT (-76.262572 42.103558),42.103558,-76.262572
+646,Skilled Nursing Facility Enhanced Support Program,Nursing Home Support,"600 East 125th Street, Wards Island, NY, 10035",POINT (-73.931309 40.801793),40.801793,-73.931309
+652,Mobile Crisis / Respite,Respite Services,"11-21 Broadway, Gloversville, NY, 12078",POINT (-74.345287 43.048646),43.048646,-74.345287
+653,Counseling & Psychiatric Services,Clinic Treatment,"880 East 2nd Street, Jamestown, NY, 14701-3824",POINT (-79.225137 42.10504),42.10504,-79.225137
+657,RSS - HH Non-Medicaid CM,Health Home Non-Medicaid Care Management,"9 River Street, Oneonta, NY, 13820",POINT (-75.064731 42.448599),42.448599,-75.064731
+658,Transition Management Services,Transition Management Services,"16-20 Union Street, Middletown, NY, 10940",POINT (-74.422127 41.447102),41.447102,-74.422127
+660,CFTSS:  Community Psychiatric Support and Treatment (CPST),CFTSS: Community Psychiatric Support and Treatment (CPST),"7513 Court Street, Elizabethtown, NY, 12932-0008",POINT (-73.597912 44.212689),44.212689,-73.597912
+663,Advocacy (Stipends),Advocacy/Support Services,"354 Central Avenue, Albany, NY, 12206",POINT (-73.774191 42.666242),42.666242,-73.774191
+665,Mental Health Association of Rockland County Inc,CFTSS: Family Peer Support Services (FPSS),"140 Route 303, Valley Cottage, NY, 10989",POINT (-73.94233 41.12062),41.12062,-73.94233
+670,Achieve Behavioral Health CFTSS/CMHRS,CFTSS: Children's Mental Health Rehabilitation Services,"404 Route 59, Airmont, NY, 10952-3429",POINT (-74.090939 41.110227),41.110227,-74.090939
+671,CFTSS: Other Licensed Practitioner,CFTSS: Other Licensed Practitioner (OLP),"1654 West Onondaga Street, Syracuse, NY, 13204",POINT (-76.181615 43.033696),43.033696,-76.181615
+672,Rome Clinic,Clinic Treatment,"227 West Dominick Street, Rome, NY, 13440-5859",POINT (-75.46043 43.212141),43.212141,-75.46043
+674,Community Based Treatment & Services,CFTSS: Youth Peer Support (YPS),"1182 Chenango St, Binghamton, NY, 13901",POINT (-75.884749 42.152517),42.152517,-75.884749
+675,Wellness Supported Education,Supported Education,"300 Aaron Court, Kingston, NY, 12402",POINT (-74.015047 41.935186),41.935186,-74.015047
+676,Otsego County Mental Health Clinic,Clinic Treatment,"242 Main Street, Oneonta, NY, 13820-2576",POINT (-75.061951 42.453939),42.453939,-75.061951
+679,Transportation,Transportation,"2601 Ocean Parkway, Brooklyn, NY, 11235",POINT (-73.966285 40.58494),40.58494,-73.966285
+681,NYC-HHC Queens Hospital Center ACT II,Assertive Community Treatment (ACT),"82-68 164th Street, Jamaica, NY, 11432-1121",POINT (-73.803431 40.71698),40.71698,-73.803431
+682,Health  Home Care Management C&Y,Health Home Care Management,"158 East 35th Street, New York, NY, 10016",POINT (-73.97822 40.746628),40.746628,-73.97822
+684,Huntington ACT Team,Assertive Community Treatment (ACT),"55 Horizon Drive, Huntington, NY, 11743-4436",POINT (-73.421788 40.858085),40.858085,-73.421788
+686,ICM - ICA Multicultural,Advocacy/Support Services,"1 Farmingdale Road, West Babylon, NY, 11704",POINT (-73.345523 40.704835),40.704835,-73.345523
+688,Garnet Health Medical Center Inpatient Psychiatric Unit,Inpatient Psychiatric Unit of a General Hospital,"707 East Main Street, Middletown, NY, 10940-2650",POINT (-74.369415 41.439962),41.439962,-74.369415
+689,Astor Day Treatment Program - E. Tremont,Day Treatment,"516 East Tremont Avenue, Bronx, NY, 10457-4514",POINT (-73.896517 40.846724),40.846724,-73.896517
+690,Harlem Hospital Center CPEP,CPEP Crisis Intervention,"506 Lenox Avenue, New York, NY, 10037-2420",POINT (-73.940495 40.814482),40.814482,-73.940495
+691,CFTSS: Other Licensed Practitioner (OLP),CFTSS: Other Licensed Practitioner (OLP),"858 E.29th Street, Brooklyn, NY, 11210",POINT (-73.948503 40.630015),40.630015,-73.948503
+693,MHA of Westchester in White Plains,Clinic Treatment,"29 Sterling Avenue, White Plains, NY, 10606-3001",POINT (-73.774595 41.021251),41.021251,-73.774595
+694,Goodwill Seamark PROS,Comprehensive PROS with Clinical Treatment,"261 Schenectady Avenue, Brooklyn, NY, 11213-4026",POINT (-73.933818 40.669677),40.669677,-73.933818
+695,Families First in Essex County Inc.,CFTSS: Psychosocial Rehabilitation (PSR),"196 Water Street, Elizabethtown, NY, 12932",POINT (-73.59303 44.217394),44.217394,-73.59303
+696,Golden Club,Psychosocial Club,"36 Cady Hill Blvd, Saratoga Springs, NY, 12866",POINT (-73.822464 43.065307),43.065307,-73.822464
+697,School Based Mental Health Direct Support,School Mental Health Program,"421 Montgomery Street = 7th Floor, Syracuse, NY, 13202",POINT (-76.148805 43.045777),43.045777,-76.148805
+698,Advocacy,Advocacy/Support Services,"505 8th Avenue, New York, NY, 10018-4541",POINT (-73.992878 40.753009),40.753009,-73.992878
+699,Chautauqua/Cattaraugus Peer Respite Center,Advocacy/Support Services,"532 East 2nd Street, Jamestown, NY, 14701",POINT (-79.233986 42.097777),42.097777,-79.233986
+700,Advocacy Services,Advocacy/Support Services,"113 Park Place, Schoharie, NY, 12157",POINT (-74.311001 42.702894),42.702894,-74.311001
+703,Health Home Non-Medicaid Care Management - Chemung,Health Home Non-Medicaid Care Management,"100 Washington Street, Elmira, NY, 14901",POINT (-76.795313 42.091164),42.091164,-76.795313
+704,Adult Recovery Services,Psychosocial Club,"15-17 Hopper Street, Utica, NY, 13501-3507",POINT (-75.233329 43.098286),43.098286,-75.233329
+705,Family Peer Support Services - Genovese,CFTSS: Family Peer Support Services (FPSS),"89-30 161st Street, Jamaica, NY, 11432",POINT (-73.799479 40.70558),40.70558,-73.799479
+708,Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"191 Bethpage Sweethollow Road, Old Bethpage, NY, 11804",POINT (-73.442404 40.761497),40.761497,-73.442404
+710,NYCCC Care Management Agency- Bronx,Health Home Care Management,"1300 Waters Place, Bronx, NY, 10461",POINT (-73.840795 40.845275),40.845275,-73.840795
+711,Putnam F&C - Non Medicaid CC,Non-Medicaid Care Coordination,"1816 Route 6, Carmel, NY, 10512",POINT (-73.673186 41.417992),41.417992,-73.673186
+714,Samaritan Daytop Village ACT Team,Assertive Community Treatment (ACT),"988 Myrtle Avenue, Brooklyn, NY, 11206-6603",POINT (-73.941807 40.696233),40.696233,-73.941807
+716,Bridger,Transition Management Services,"239 Golden Hill Lane, Kingston, NY, 12401",POINT (-74.018902 41.915746),41.915746,-74.018902
+717,Assisted Competitive Employment,Assisted Competitive Employment,"3899 Oneida Street, New Hartford, NY, 13413",POINT (-75.272189 43.052022),43.052022,-75.272189
+718,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"620 Madison Street, Syracuse, NY, 13210",POINT (-76.139777 43.045384),43.045384,-76.139777
+720,Ongoing Integrated Supported Employment,Ongoing Integrated Supported Employment Services,"252 W. 29th Street, New York, NY, 10001",POINT (-73.995198 40.748813),40.748813,-73.995198
+722,Heights Hill Clinic,Clinic Treatment,"25 Flatbush Avenue, Brooklyn, NY, 11217-1101",POINT (-73.980183 40.687916),40.687916,-73.980183
+723,Alternative to Incarceration/Crisis Stabilization Team,Crisis  Intervention,"112 East Post Road, White Plains, NY, 10601",POINT (-73.766405 41.028438),41.028438,-73.766405
+725,Children's Crisis Outreach Program,Crisis  Intervention,"127 West State Street, Ithaca, NY, 14850",POINT (-76.5001 42.439489),42.439489,-76.5001
+726,Consumer Officer,Advocacy/Support Services,"42-09 28th Street, Long Island City, NY, 11101",POINT (-73.939294 40.749488),40.749488,-73.939294
+732,St. Mary's Hospital Montgomery County Adult MH Clinic,Clinic Treatment,"427 Guy Park Avenue, Amsterdam, NY, 12010-1003",POINT (-74.216041 42.953648),42.953648,-74.216041
+733,OnTrackNY Southern Tier,Clinic Treatment,"114 Clinton Street, Binghamton, NY, 13905-2212",POINT (-75.922831 42.105293),42.105293,-75.922831
+734,CFTSS: Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"31 6th Street, Malone, NY, 12953",POINT (-74.290401 44.860752),44.860752,-74.290401
+735,LIJ Adult Partial Hospitalization Program,Partial Hospitalization,"75-59 263rd Street, Glen Oaks, NY, 11004-1150",POINT (-73.711757 40.749741),40.749741,-73.711757
+736,Children's Community Support Program,CFTSS: Other Licensed Practitioner (OLP),"1045 James Street, Syracuse, NY, 13203",POINT (-76.132654 43.060118),43.060118,-76.132654
+737,Health Home Care Management,Health Home Non-Medicaid Care Management,"115-02 Ocean Promenade, Rockaway Park, NY, 11694",POINT (-73.835499 40.577971),40.577971,-73.835499
+738,Mobile Transitional Support,Crisis  Intervention,"212 Laurens Street, Olean, NY, 14760",POINT (-78.432067 42.079481),42.079481,-78.432067
+739,BHSN CFTSS Mobile Crisis Intervention,CFTSS: Mobile Crisis Intervention (CI),"2155 State Route 22b, Morrisonville, NY, 12962",POINT (-73.535331 44.696168),44.696168,-73.535331
+741,CFTSS CPST,CFTSS: Community Psychiatric Support and Treatment (CPST),"377 Oak St, Garden City, NY, 11530",POINT (-73.608059 40.725589),40.725589,-73.608059
+742,Catholic Charities Syracuse - HH Non- Med CM- Cortland Co.,Health Home Non-Medicaid Care Management,"33-35 Central Avenue, Cortland, NY, 13045",POINT (-76.178771 42.600136),42.600136,-76.178771
+743,Chautauqua County MHS - HH Non- Med CM,Health Home Non-Medicaid Care Management,"333 E. 5th Street, Jamestown, NY, 14701",POINT (-79.236639 42.09895),42.09895,-79.236639
+744,Transitional Business Model,Transformed Business Model,"1149 Sullivan Street, Elmira, NY, 14901",POINT (-76.802577 42.109301),42.109301,-76.802577
+745,CFTSS: Youth Peer Support and Training (YPST),CFTSS: Youth Peer Support (YPS),"1808 Route 6, Carmel, NY, 10512",POINT (-73.673375 41.418211),41.418211,-73.673375
+746,Respite Services,Respite Services,"230 Maple Street, Glens Falls, NY, 12801",POINT (-73.63216 43.312022),43.312022,-73.63216
+748,Montefiore Behavioral Health Center at Westchester Square,Clinic Treatment,"2527 Glebe Avenue, Bronx, NY, 10461",POINT (-73.846375 40.840928),40.840928,-73.846375
+749,WellLife - HH CM,Health Home Care Management,"209-03 Jamaica Avenue, Jamaica, NY, 11428",POINT (-73.751335 40.714684),40.714684,-73.751335
+750,Manhattan Forensic Psychiatry Court Clinic,Advocacy/Support Services,"100 Centre Street, New York, NY, 10013",POINT (-74.00124 40.71634),40.71634,-74.00124
+752,Ohel - Tikvah Clinic,Clinic Treatment,"1262-1286 E 14 Street, Brooklyn, NY, 11230",POINT (-73.961073 40.618571),40.618571,-73.961073
+753,Home Based Crisis Intervention,Home Based Crisis Intervention,"1 Keuka Business Park, Penn Yan, NY, 14527",POINT (-77.05779 42.654494),42.654494,-77.05779
+754,Peer Supp/PSHYCH - Schenectady,Supported Education,"339 Broadway, Menands, NY, 12204",POINT (-73.722509 42.694429),42.694429,-73.722509
+757,Living Room Crisis Center,Crisis  Intervention,"327 Elm St., Buffalo, NY, 14203",POINT (-78.867783 42.890136),42.890136,-78.867783
+758,CFTSS: Mobile Crisis Intervention (CI),CFTSS: Mobile Crisis Intervention (CI),"115 Liberty St., Bath, NY, 14810",POINT (-77.318121 42.336013),42.336013,-77.318121
+760,MH Servs-Erie Co/Spectrum - HH Non- Med CM - Wyoming Co,Health Home Non-Medicaid Care Management,"58 W. Buffalo Street, Warsaw, NY, 14569",POINT (-78.133854 42.74022),42.74022,-78.133854
+762,Information and Referral,Advocacy/Support Services,"307-309 Meadow Street, Johnstown, NY, 12095",POINT (-74.377811 43.00205),43.00205,-74.377811
+763,Yates Psychosocial Club,Psychosocial Club,"173 Main Street, Penn Yan, NY, 14527",POINT (-77.05521 42.663437),42.663437,-77.05521
+764,Brooklyn Center For Psychotherapy Inc.,Clinic Treatment,"300 Flatbush Avenue, Brooklyn, NY, 11217-2812",POINT (-73.973202 40.678193),40.678193,-73.973202
+766,Hospital Diversion Program - Orange County,Crisis  Intervention,"441 East Main Street, Middletown, NY, 10940",POINT (-74.390303 41.444091),41.444091,-74.390303
+768,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"1111 Elmwood Avenue, Rochester, NY, 14620-3005",POINT (-77.609856 43.124938),43.124938,-77.609856
+769,Residential Family Peer Support,Family Peer Support Services - Children & Family,"358 St. Marks Place, Staten Island, NY, 10301",POINT (-74.077764 40.641039),40.641039,-74.077764
+773,CFTSS: Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"307 West 38 Street 6th Floor, New York City, NY, 10018",POINT (-73.992325 40.755001),40.755001,-73.992325
+776,Family Counseling Services Mental Health Clinic,Clinic Treatment,"165 Main Street, Cortland, NY, 13045-2171",POINT (-76.18003 42.594047),42.594047,-76.18003
+777,Geriatric Mental Health Act,Geriatric Demo Physical Health - Mental Health Integration,"234 East 149 Street, Bronx, NY, 10451",POINT (-73.924072 40.817681),40.817681,-73.924072
+778,UB Educational Grant,Advocacy/Support Services,"2240 Old Union Road, Cheektowaga, NY, 14227",POINT (-78.75637 42.871069),42.871069,-78.75637
+780,Outreach Lifeline,Outreach,"4600 Millennium Drive, Geneseo, NY, 14454",POINT (-77.790421 42.79823),42.79823,-77.790421
+782,Health Home Non  Mediciad Care Managment C&Y Orange,Health Home Non-Medicaid Care Management,"53 Gibson Road, Goshen, NY, 10924",POINT (-74.353646 41.38697),41.38697,-74.353646
+783,Phelps Memorial Hospital - HHCM,Health Home Care Management,"315 South Highland Avenue, Briarcliff Manor, NY, 10510",POINT (-73.861353 41.142498),41.142498,-73.861353
+785,BALANCE Eating Disorder Center Clinic,Clinic Treatment,"18 West 21st Street, New York, NY, 10010-6923",POINT (-73.991893 40.740607),40.740607,-73.991893
+786,Transition Management Services,Transition Management Services,"470 Mamaroneck Avenue, White Plains, NY, 10605",POINT (-73.75979 41.022715),41.022715,-73.75979
+790,Hamilton County Community Services,Respite Services,"143 White Birch Lane, Indian Lake, NY, 12842-1409",POINT (-74.260096 43.777635),43.777635,-74.260096
+791,Representative Payee Program,Advocacy/Support Services,"3390 Route 112, Medford, NY, 11763",POINT (-72.997038 40.845377),40.845377,-72.997038
+793,Adult System of Care,Advocacy/Support Services,"567 Exchange Street, Buffalo, NY, 14210",POINT (-78.855401 42.875526),42.875526,-78.855401
+794,Ongoing Integrated Supportive Employment,Ongoing Integrated Supported Employment Services,"131 Genesee St, Utica, NY, 13503",POINT (-75.229238 43.102416),43.102416,-75.229238
+795,CFTSS Staten Island,CFTSS: Community Psychiatric Support and Treatment (CPST),"1765 South Avenue, New York, NY, 10314",POINT (-74.193675 40.601416),40.601416,-74.193675
+797,Postgraduate Center for Mental Health - HH Non - Medicaid CM,Health Home Non-Medicaid Care Management,"158 East 35th Street, New York, NY, 10016",POINT (-73.97822 40.746628),40.746628,-73.97822
+798,Glenbervie Health Partial Hospitalization Program,Partial Hospitalization,"205 Lexington Avenue, New York, NY, 10016-6020",POINT (-73.980541 40.745272),40.745272,-73.980541
+799,Asian Outreach Program,Advocacy/Support Services,"81-14 Queens Boulevard, Elmhurst, NY, 11373",POINT (-73.881737 40.737401),40.737401,-73.881737
+800,Family Court Outreach (formerly pre-admin screening),Outreach,"1200 Old Country Road, Westbury, NY, 11590",POINT (-73.552487 40.753447),40.753447,-73.552487
+802,Bronx ACT I,Assertive Community Treatment (ACT),"560 Southern Boulevard, Bronx, NY, 10455-3715",POINT (-73.903125 40.812422),40.812422,-73.903125
+803,United Helpers Mental Health Clinic,Clinic Treatment,"221 Hamilton Street, Ogdensburg, NY, 13669-1707",POINT (-75.486602 44.700785),44.700785,-75.486602
+804,Allegany Rehabilitation Associates - HH CM,Health Home Care Management,"4220 State Route 417w, Wellsville, NY, 14895",POINT (-77.475333 42.109103),42.109103,-77.475333
+805,Metropolitan Hospital Mental Health Center,Inpatient Psychiatric Unit of a General Hospital,"1901 First Avenue, New York, NY, 10029",POINT (-73.943636 40.78472),40.78472,-73.943636
+806,Baltic Resource and Wellness Center,Advocacy/Support Services,"882 3rd Avenue, Brooklyn, NY, 11232",POINT (-74.004546 40.657575),40.657575,-74.004546
+807,Children's Mobile Crisis,Crisis  Intervention,"91 Guy Lombardo Avenue, Freeport, NY, 11520-3731",POINT (-73.584386 40.653752),40.653752,-73.584386
+810,Harlem Hospital Adult Outpatient Clinic,Clinic Treatment,"512 Lenox Avenue, New York, NY, 10037-2420",POINT (-73.940298 40.814751),40.814751,-73.940298
+812,Other Licensed Practitioner (OLP),CFTSS: Other Licensed Practitioner (OLP),"86-88 Walnut Avenue, Binghamton, NY, 13905",POINT (-75.923098 42.100935),42.100935,-75.923098
+814,Kings County Hospital CPEP,CPEP Crisis Intervention,"410 Winthrop Street, Brooklyn, NY, 11203",POINT (-73.946492 40.65734),40.65734,-73.946492
+815,NAC Mental Health Clinic,Clinic Treatment,"37 West 26th Street, New York, NY, 10010-1058",POINT (-73.989899 40.744172),40.744172,-73.989899
+816,Compeer - Schenectady County,Advocacy/Support Services,"314 Central Avenue, Albany, NY, 12206",POINT (-73.772929 42.665139),42.665139,-73.772929
+820,Child Mental Health Rehabilitation Services,CFTSS: Children's Mental Health Rehabilitation Services,"22 Us Oval, Plattsburgh, NY, 12903-5902",POINT (-73.446889 44.684674),44.684674,-73.446889
+823,Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"400 Doansburg Road, Brewster, NY, 10509",POINT (-73.553038 41.453859),41.453859,-73.553038
+828,NYP/Columbia U Medical Center Pediatric Psychiatric Clinic,Clinic Treatment,"635 W 165th Street 6th Floor, New York, NY, 10032",POINT (-73.942534 40.839907),40.839907,-73.942534
+831,Warren-Washington AMH - HH NonMed CM,Health Home Non-Medicaid Care Management,"230 Maple St., Glens Falls, NY, 12801",POINT (-73.63216 43.312022),43.312022,-73.63216
+832,Villa of Hope Behavioral Health Services,Clinic Treatment,"1099 Jay Street, Rochester, NY, 14611-1153",POINT (-77.650727 43.159364),43.159364,-77.650727
+834,Elmhurst Partial Hospitalization Program,Partial Hospitalization,"79-01 Broadway, Elmhurst, NY, 11373",POINT (-73.88598 40.74434),40.74434,-73.88598
+835,BestSelf Behavioral Health - HH NonMed CM,Health Home Non-Medicaid Care Management,"1050 Niagara Street, Buffalo, NY, 14213",POINT (-78.899823 42.912085),42.912085,-78.899823
+837,Lawrence F. Hickey Center,Day Treatment,"4010 Dyre Avenue, Bronx, NY, 10466-2510",POINT (-73.831087 40.89104),40.89104,-73.831087
+838,Sullivan County - HH CM,Health Home Care Management,"20 Community Lane, Liberty, NY, 12754-0716",POINT (-74.709537 41.796085),41.796085,-74.709537
+839,CDPC - Albany County Clinic Treatment Program,Clinic Treatment,"75 New Scotland Avenue, Albany, NY, 12208-3409",POINT (-73.777893 42.652557),42.652557,-73.777893
+840,Children and Youth Support in CPEP,Advocacy/Support Services,"462 Grider St, Buffalo, NY, 14215",POINT (-78.829151 42.927236),42.927236,-78.829151
+842,Mobile Transitional Support,Crisis  Intervention,"100 River Rock Drive Suite 300, Buffalo, NY, 14207-2163",POINT (-78.898101 42.946967),42.946967,-78.898101
+843,Success PROS,Comprehensive PROS without Clinical Treatment,"405 Locust Avenue, Oakdale, NY, 11769-1651",POINT (-73.111985 40.746766),40.746766,-73.111985
+846,Chelton Loft Clubhouse,Psychosocial Club,"104-106 E. 126th St., New York, NY, 10035",POINT (-73.937885 40.805453),40.805453,-73.937885
+847,Transportation,Transportation,"6096 Nys Route 9n, Westport, NY, 12993",POINT (-73.428083 44.159161),44.159161,-73.428083
+852,Health Home Non-Medicaid Care Management - Seneca,Health Home Non-Medicaid Care Management,"12 N. Park Street, Seneca Falls, NY, 13148",POINT (-76.796175 42.913926),42.913926,-76.796175
+853,Psychiatric Inpatient Unit,State Psychiatric Center Inpatient,"2 First Avenue, Orangeburg, NY, 10962",POINT (-73.96979 41.046076),41.046076,-73.96979
+855,Safe Transition and Empowerment Project,Non-Medicaid Care Coordination,"200 Varick Street, New York, NY, 10014",POINT (-74.005349 40.728324),40.728324,-74.005349
+856,Ongoing Integrated Supported Work,Ongoing Integrated Supported Employment Services,"350 S. Washington Street, Herkimer, NY, 13350-0271",POINT (-74.981595 43.021652),43.021652,-74.981595
+857,Family Support- PA,Family Peer Support Services - Children & Family,"737 Madison Avenue, Albany, NY, 12208",POINT (-73.77836 42.658535),42.658535,-73.77836
+859,Buckman Center,Clinic Treatment,"998 Crooked Hill Road, West Brentwood, NY, 11717-1019",POINT (-73.286926 40.80409),40.80409,-73.286926
+860,RSS - OISE - Delaware County,Ongoing Integrated Supported Employment Services,"132 Delaware Street, Walton, NY, 13856",POINT (-75.129753 42.168109),42.168109,-75.129753
+861,Schuyler Achievement Academy - SBMH,School Mental Health Program,"676 Clinton Avenue, Albany, NY, 12206",POINT (-73.774713 42.668539),42.668539,-73.774713
+862,Family Advocate Program,Family Peer Support Services - Children & Family,"480 Old Westbury Road, Roslyn Heights, NY, 11577",POINT (-73.632974 40.784157),40.784157,-73.632974
+863,Adult Psychiatric Outpatient Clinic Treatment Program,Clinic Treatment,"33 Mitchell Avenue, Binghamton, NY, 13903",POINT (-75.914099 42.086861),42.086861,-75.914099
+864,Sullivan county Department of Community Services,Health Home Care Management,"20 Community Lane, Liberty, NY, 12754",POINT (-74.709537 41.796085),41.796085,-74.709537
+865,The MH Div./Julia Dyckman Andrus Memorial Peekskill Clinic,Clinic Treatment,"50 Dayton Lane, Peekskill, NY, 10566-2580",POINT (-73.896067 41.2937),41.2937,-73.896067
+867,Kingsbrook Jewish Psychiatric Inpatient Unit,Inpatient Psychiatric Unit of a General Hospital,"585 Schenectady Avenue, Brooklyn, NY, 11203-1822",POINT (-73.934072 40.658929),40.658929,-73.934072
+870,Lakeview Health Services - HH Non-Med CM - Tompkins,Health Home Non-Medicaid Care Management,"609-611 W. Washington Street, Geneva, NY, 14456",POINT (-77.006885 42.85991),42.85991,-77.006885
+873,Social Connection,Drop In Centers,"454 West Church Street, Elmira, NY, 14902-0588",POINT (-76.81636 42.087459),42.087459,-76.81636
+875,St. Mary's Healthcare - HH NonMed CM,Health Home Non-Medicaid Care Management,"427 Guy Park Avenue, Amsterdam, NY, 12010",POINT (-74.216041 42.953648),42.953648,-74.216041
+876,Transitional Management,Transition Management Services,"1519 Nye Road, Lyons, NY, 14489-9133",POINT (-77.029774 43.061677),43.061677,-77.029774
+878,Columbia County HH CM C&Y,Health Home Care Management,"325 Columbia Street, Hudson, NY, 12534",POINT (-73.789459 42.252941),42.252941,-73.789459
+881,Health Home Care Management,Health Home Care Management,"400 Forest Avenue, Buffalo, NY, 14213",POINT (-78.883286 42.927823),42.927823,-78.883286
+882,Adolescent Skills Center South,Vocational Services - Children & Family (C & F),"975 Kelly Street, Bronx, NY, 10459",POINT (-73.895881 40.82218),40.82218,-73.895881
+886,Suicide Prev. Tompkins Co. - Info & Ref.,Advocacy/Support Services,"124 E. Court Street, Ithaca, NY, 14850-4234",POINT (-76.497896 42.442618),42.442618,-76.497896
+891,New Horizon Counseling Center ACT Team,Assertive Community Treatment (ACT),"88-02 Rockaway Beach Boulevard, Rockaway Beach, NY, 11693-1609",POINT (-73.813141 40.587318),40.587318,-73.813141
+892,Joan Fenichel Therapeutic Nursery,Day Treatment,"470 Vanderbilt Avenue, Brooklyn, NY, 11238-2212",POINT (-73.967818 40.682981),40.682981,-73.967818
+893,Health Home Non Medicaid Care Management C&Y,Health Home Non-Medicaid Care Management,"45 North Broad Street, Wellsville, NY, 14895",POINT (-77.943182 42.12048),42.12048,-77.943182
+895,Empowerment Center,Advocacy/Support Services,"90-27 Sutphin Boulevard, Jamaica, NY, 11435",POINT (-73.80825 40.702607),40.702607,-73.80825
+896,Community Psychiatric Support and Treatment,CFTSS: Community Psychiatric Support and Treatment (CPST),"1444 5th Avenue, Bay Shore, NY, 11706-4147",POINT (-73.263906 40.745565),40.745565,-73.263906
+898,Adult Home Initiative,Outreach,"17 Battery Place, New York, NY, 10004",POINT (-74.015802 40.704944),40.704944,-74.015802
+901,BronxCare Psychiatric Adult Outpatient Practice 1,Clinic Treatment,"1276 Fulton Avenue, Bronx, NY, 10456-3402",POINT (-73.903756 40.83175),40.83175,-73.903756
+903,Strong Ties ACT Program,Assertive Community Treatment (ACT),"2613 W. Henrietta Road, Rochester, NY, 14623-2327",POINT (-77.630422 43.099104),43.099104,-77.630422
+904,RGHS BHN - HH NonMed CM Rochester MHC,Health Home Non-Medicaid Care Management,"490 East Ridge Road, Rochester, NY, 14621-3086",POINT (-77.605123 43.195443),43.195443,-77.605123
+906,Children and Family Treatment and Support Services,CFTSS: Other Licensed Practitioner (OLP),"315 Wyckoff Avenue, Brooklyn, NY, 11237",POINT (-73.912085 40.700088),40.700088,-73.912085
+912,Mental Health School Based Satellite-Huntington High School,School Mental Health Program,"188 Oakwood Road, Huntington, NY, 11743-4295",POINT (-73.427133 40.858011),40.858011,-73.427133
+914,Family Peer Support Services,CFTSS: Family Peer Support Services (FPSS),"344 Fulton Avenue, Hempstead, NY, 11550",POINT (-73.621956 40.708934),40.708934,-73.621956
+915,Brooklyn Children's Behavioral Health Clinic,Clinic Treatment,"1819 Bergen Street, Brooklyn, NY, 11233-4513",POINT (-73.921862 40.674569),40.674569,-73.921862
+919,LaSalle School CFTSS,CFTSS: Community Psychiatric Support and Treatment (CPST),"391 Western Avenue, Albany, NY, 12203",POINT (-73.783614 42.663888),42.663888,-73.783614
+922,WMC - Behavioral Health Inpatient Unit,Inpatient Psychiatric Unit of a General Hospital,"100 Woods Road, Valhalla, NY, 10595",POINT (-73.803897 41.08768),41.08768,-73.803897
+923,Family Support Program,Family Peer Support Services - Children & Family,"7 Pearl Street, Malone, NY, 12953",POINT (-74.290416 44.848664),44.848664,-74.290416
+926,South Shore Family Center Clinic,Clinic Treatment,"1448 Fifth Avenue, Bay Shore, NY, 11706-4147",POINT (-73.263945 40.745186),40.745186,-73.263945
+929,Work Program,Work Program,"230 Maple Street, Glens Falls, NY, 12801",POINT (-73.63216 43.312022),43.312022,-73.63216
+930,Triage Team,Outreach,"998 Crooked Hill Road, West Brentwood, NY, 11717",POINT (-73.286926 40.80409),40.80409,-73.286926
+931,Outreach - Reinvestment,Outreach,"317 South Broadway, Yonkers, NY, 10701",POINT (-73.895774 40.922668),40.922668,-73.895774
+933,Skilled Nursing Facility Enhanced Support Program),Nursing Home Support,"79-25 Winchester Blvd., Queens Village, NY, 11427",POINT (-73.73324 40.741147),40.741147,-73.73324
+934,CAMT Respite Bed,Respite Services,"60 Academy Road, Albany, NY, 12208",POINT (-73.78536 42.649281),42.649281,-73.78536
+938,Columbia Presbyterian Center CPEP,CPEP Crisis Intervention,"622 W 168th Street, New York, NY, 10032-3720",POINT (-73.940785 40.841514),40.841514,-73.940785
+939,Glens Falls Hospital - HH Non - Medicaid CM,Health Home Non-Medicaid Care Management,"100 Park Street, Glens Falls, NY, 12801",POINT (-73.644551 43.308335),43.308335,-73.644551
+942,DDD1 - Information & Referral,Advocacy/Support Services,"939 Johnson Avenue, Ronkonkoma, NY, 11779",POINT (-73.12145 40.807643),40.807643,-73.12145
+943,Family Court Screening,Outreach,"400 Carleton Avenue, Central Islip, NY, 11722",POINT (-73.196309 40.761726),40.761726,-73.196309
+946,East Village Access,Comprehensive PROS with Clinical Treatment,"242 East 2nd Street, New York, NY, 10009-8127",POINT (-73.981882 40.721361),40.721361,-73.981882
+947,BFNC - HH NonMed CM - New Options,Health Home Non-Medicaid Care Management,"45 Jewett Avenue, Buffalo, NY, 14214",POINT (-78.842207 42.934016),42.934016,-78.842207
+949,Healthy Outcomes Partnership & Education,Non-Medicaid Care Coordination,"77 Goodell Street, Buffalo, NY, 14203",POINT (-78.868249 42.894753),42.894753,-78.868249
+950,Transitional Employment,Transitional Employment Placement (TEP),"1 Arc Way, Bath, NY, 14810",POINT (-77.297469 42.358767),42.358767,-77.297469
+951,Westchester CJ Recovery Coach,Outreach,"6 Gramatan Avenue, Mount Vernon, NY, 10550",POINT (-73.837251 40.91248),40.91248,-73.837251
+956,Advocacy/Support Services,Advocacy/Support Services,"171 East State Street, Ithaca, NY, 14850-3305",POINT (-76.49687 42.439439),42.439439,-76.49687
+957,Psychosocial Rehabilitation,CFTSS: Psychosocial Rehabilitation (PSR),"365 Willoughby Avenue, Brooklyn, NY, 11205",POINT (-73.955972 40.692976),40.692976,-73.955972
+958,Pine Grove Clinic,Clinic Treatment,"350 Washington Avenue, Kingston, NY, 12401-3702",POINT (-74.02461 41.933939),41.933939,-74.02461
+959,OMH Crisis Respite,Respite Services,"27 N. Main Avenue, Albany, NY, 12203",POINT (-73.78725 42.666158),42.666158,-73.78725
+962,Non-Medicaid CC - Sullivan Vocational,Non-Medicaid Care Coordination,"22 Crystal Street, Monticello, NY, 12701",POINT (-74.688934 41.663079),41.663079,-74.688934
+963,Suffolk County Transportation,Transportation,"998 Crooked Hill Road, West Brentwood, NY, 11717",POINT (-73.286926 40.80409),40.80409,-73.286926
+964,Children's Mobile Crisis Team,Crisis  Intervention,"1841 Park Avenue, New York, NY, 10035",POINT (-73.938281 40.805822),40.805822,-73.938281
+966,Compeer For Youth,Advocacy/Support Services,"307-309 Meadow Street, Johnstown, NY, 12095",POINT (-74.377811 43.00205),43.00205,-74.377811
+968,Bronx PC - HHCM,Health Home Care Management,"3050 White Plains Road, Bronx, NY, 10467",POINT (-73.867234 40.8705),40.8705,-73.867234
+969,Fed of Org - HH CM - Suffolk,Health Home Care Management,"3390 Route 112, Medford, NY, 11763",POINT (-72.997038 40.845377),40.845377,-72.997038
+970,UCP - HH Non- Med CM - Utica Area,Health Home Non-Medicaid Care Management,"235 North Prospect Street, Herkimer, NY, 13350",POINT (-74.989564 43.026963),43.026963,-74.989564
+972,CFTSS: Youth Peer Support and Training,CFTSS: Youth Peer Support (YPS),"166 Albany Ave, Kingston, NY, 12402-3516",POINT (-74.008506 41.933327),41.933327,-74.008506
+973,Seaway House Psychosocial Club,Psychosocial Club,"212 Caroline Street, Ogdensburg, NY, 13669",POINT (-75.492155 44.698878),44.698878,-75.492155
+974,Mental Health Court,Non-Medicaid Care Coordination,"55 West Ames Court Suite 100, Plainview, NY, 11803",POINT (-73.468269 40.79008),40.79008,-73.468269
+976,Social Club,Psychosocial Club,"25 Liberty Street, Batavia, NY, 14020",POINT (-78.179806 42.995245),42.995245,-78.179806
+977,Institute Center for Counseling at Westchester Square,Clinic Treatment,"1420 Ferris Place, Bronx, NY, 10461-3611",POINT (-73.841546 40.839364),40.839364,-73.841546
+978,Work Program,Work Program,"33-35 Central Avenue, Cortland, NY, 13045",POINT (-76.178771 42.600136),42.600136,-76.178771
+979,Expanded Community Support Adult,Outreach,"126 Innis Avenue, Poughkeepsie, NY, 12601",POINT (-73.904456 41.705005),41.705005,-73.904456
+983,Elmira PC Allegany - HHCM,Health Home Care Management,"45 Broad Street, Wellsville, NY, 14895",POINT (-77.943182 42.12048),42.12048,-77.943182
+984,Youth Partner/Peer Mentor LEAD,Advocacy/Support Services,"1444 5th Avenue, Bay Shore, NY, 11706-4147",POINT (-73.263906 40.745565),40.745565,-73.263906
+985,Hamilton County Community Services,Advocacy/Support Services,"143 White Birch Lane, Indian Lake, NY, 12842-1409",POINT (-74.260096 43.777635),43.777635,-74.260096
+988,Families First in Essex County Inc.,CFTSS: Family Peer Support Services (FPSS),"196 Water Street, Elizabethtown, NY, 12932",POINT (-73.59303 44.217394),44.217394,-73.59303
+990,Support/Advocacy Services,Advocacy/Support Services,"25 Flatbush Avenue, Brooklyn, NY, 11217",POINT (-73.980183 40.687916),40.687916,-73.980183
+991,Shiloh Consulting,Clinic Treatment,"566 7th Avenue, New York, NY, 10018-1802",POINT (-73.987665 40.755072),40.755072,-73.987665
+996,Hospital Transition and Diversion - Sullivan County,Crisis  Intervention,"14 Pelton St., Monticello, NY, 12701",POINT (-74.691174 41.655071),41.655071,-74.691174
+998,CFC Mental Health Clinic,Clinic Treatment,"87 North Clinton Avenue, Rochester, NY, 14604-1407",POINT (-77.607154 43.158961),43.158961,-77.607154
+999,YWCA Women's Residence Program,Non-Medicaid Care Coordination,"300 Burt Street, Syracuse, NY, 13202",POINT (-76.146596 43.038263),43.038263,-76.146596
