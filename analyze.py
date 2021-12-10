@@ -45,7 +45,7 @@ def fetch_data():
 
     # Cleaning the Patient Survey dataset
     def clean_patient(patient):
-        patient = patient[['region_served', 'age_group', 'sex', 'education_status', 'special_education_services',
+        patient = patient[['age_group', 'sex', 'education_status', 'special_education_services',
                            'mental_illness', 'medicaid_insurance']]
         patient = patient.rename(columns={'medicaid_insurance': 'insurance'})
         return patient
@@ -73,7 +73,7 @@ def fetch_data():
     # Calling the URIs and getting csv as response and then cleaning the data
     patient_data = clean_patient(pd.read_csv(PATIENT_URI))
     local_data = clean_local(pd.read_csv(LOCAL_URI))
-    doe_data = clean_doe(pd.read_csv(DOE_URI, nrows=10))
+    doe_data = clean_doe(pd.read_csv(DOE_URI))
 
     return patient_data, local_data, doe_data
 
