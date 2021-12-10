@@ -69,7 +69,7 @@ def draw_folium_map(data, zoom, tile):
     # Creating a folium map
     map = folium.Map(location=[data['lat'].mean(),
                                data['lon'].mean()], zoom_start=zoom, tiles=tile)
-    for location_info in data.iterrows():
+    for _, location_info in data.iterrows():
         folium.Marker([location_info["lat"], location_info["lon"]],
                       popup=location_info["address"], icon=folium.Icon(color='darkblue', icon_color='white', icon='plus')).add_to(map)
     return map
